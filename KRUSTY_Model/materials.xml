@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material depletable="true" id="1" name="fuel">
+    <density units="g/cm3" value="18.0"/>
+    <nuclide ao="0.003618644397565655" name="U234"/>
+    <nuclide ao="0.4048542632890727" name="U235"/>
+    <nuclide ao="7.589672665329517" name="U238"/>
+    <nuclide ao="0.001854426983845409" name="U236"/>
+    <nuclide ao="0.14649" name="Mo92"/>
+    <nuclide ao="0.09187" name="Mo94"/>
+    <nuclide ao="0.15873" name="Mo95"/>
+    <nuclide ao="0.16673" name="Mo96"/>
+    <nuclide ao="0.09582" name="Mo97"/>
+    <nuclide ao="0.24292" name="Mo98"/>
+    <nuclide ao="0.09744" name="Mo100"/>
+  </material>
+  <material id="2" name="water">
+    <density units="g/cm3" value="1.0"/>
+    <nuclide ao="1.99968852" name="H1"/>
+    <nuclide ao="0.00031148" name="H2"/>
+    <nuclide ao="0.999621" name="O16"/>
+    <nuclide ao="0.000379" name="O17"/>
+    <sab name="c_H_in_H2O"/>
+  </material>
+  <material id="3" name="sodium">
+    <density units="g/cm3" value="10.0"/>
+    <nuclide ao="1.0" name="Na23"/>
+  </material>
+  <material id="4" name="nickel">
+    <density units="g/cm3" value="9.0"/>
+    <nuclide ao="0.680769" name="Ni58"/>
+    <nuclide ao="0.262231" name="Ni60"/>
+    <nuclide ao="0.011399" name="Ni61"/>
+    <nuclide ao="0.036345" name="Ni62"/>
+    <nuclide ao="0.009256" name="Ni64"/>
+  </material>
+  <material id="5" name="molybdenum">
+    <density units="g/cm3" value="10.0"/>
+    <nuclide ao="0.14649" name="Mo92"/>
+    <nuclide ao="0.09187" name="Mo94"/>
+    <nuclide ao="0.15873" name="Mo95"/>
+    <nuclide ao="0.16673" name="Mo96"/>
+    <nuclide ao="0.09582" name="Mo97"/>
+    <nuclide ao="0.24292" name="Mo98"/>
+    <nuclide ao="0.09744" name="Mo100"/>
+  </material>
+  <material id="6" name="BC4">
+    <density units="g/cm3" value="2.52"/>
+    <nuclide ao="4.0" name="C0"/>
+  </material>
+</materials>

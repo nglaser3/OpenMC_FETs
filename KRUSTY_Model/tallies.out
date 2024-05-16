@@ -1,0 +1,3981 @@
+ ============================>     TALLY 4     <============================
+
+ Cell 26
+   Zernike expansion, Z0,0
+     Total Material
+       Kappa-Fission Rate                   4.88029e+07 +/- 92511.1
+   Zernike expansion, Z1,-1
+     Total Material
+       Kappa-Fission Rate                   -11003 +/- 37061.1
+   Zernike expansion, Z1,1
+     Total Material
+       Kappa-Fission Rate                   -68789.6 +/- 38331.8
+   Zernike expansion, Z2,-2
+     Total Material
+       Kappa-Fission Rate                   24690.7 +/- 23504.3
+   Zernike expansion, Z2,0
+     Total Material
+       Kappa-Fission Rate                   7.07303e+06 +/- 28219.2
+   Zernike expansion, Z2,2
+     Total Material
+       Kappa-Fission Rate                   -8348.77 +/- 24520.8
+   Zernike expansion, Z3,-3
+     Total Material
+       Kappa-Fission Rate                   9950.34 +/- 19905.9
+   Zernike expansion, Z3,-1
+     Total Material
+       Kappa-Fission Rate                   8235.57 +/- 15551.1
+   Zernike expansion, Z3,1
+     Total Material
+       Kappa-Fission Rate                   2380.46 +/- 15775.9
+   Zernike expansion, Z3,3
+     Total Material
+       Kappa-Fission Rate                   44778 +/- 19074
+   Zernike expansion, Z4,-4
+     Total Material
+       Kappa-Fission Rate                   -1076.36 +/- 17318.1
+   Zernike expansion, Z4,-2
+     Total Material
+       Kappa-Fission Rate                   -310.512 +/- 16468.5
+   Zernike expansion, Z4,0
+     Total Material
+       Kappa-Fission Rate                   -5.85484e+06 +/- 20911.7
+   Zernike expansion, Z4,2
+     Total Material
+       Kappa-Fission Rate                   -5140.88 +/- 14270.6
+   Zernike expansion, Z4,4
+     Total Material
+       Kappa-Fission Rate                   43683.6 +/- 16197
+   Zernike expansion, Z5,-5
+     Total Material
+       Kappa-Fission Rate                   10590.2 +/- 13894.6
+   Zernike expansion, Z5,-3
+     Total Material
+       Kappa-Fission Rate                   13175.6 +/- 13929.8
+   Zernike expansion, Z5,-1
+     Total Material
+       Kappa-Fission Rate                   -21763.8 +/- 11327.9
+   Zernike expansion, Z5,1
+     Total Material
+       Kappa-Fission Rate                   8168.81 +/- 11654.9
+   Zernike expansion, Z5,3
+     Total Material
+       Kappa-Fission Rate                   4179.82 +/- 12531.8
+   Zernike expansion, Z5,5
+     Total Material
+       Kappa-Fission Rate                   -28776 +/- 13580.2
+   Zernike expansion, Z6,-6
+     Total Material
+       Kappa-Fission Rate                   -5252.88 +/- 13252
+   Zernike expansion, Z6,-4
+     Total Material
+       Kappa-Fission Rate                   -16829.7 +/- 12190.5
+   Zernike expansion, Z6,-2
+     Total Material
+       Kappa-Fission Rate                   17284.1 +/- 11708.8
+   Zernike expansion, Z6,0
+     Total Material
+       Kappa-Fission Rate                   2.3937e+06 +/- 16648.8
+   Zernike expansion, Z6,2
+     Total Material
+       Kappa-Fission Rate                   -5575.7 +/- 10730.9
+   Zernike expansion, Z6,4
+     Total Material
+       Kappa-Fission Rate                   -21178.2 +/- 12965.6
+   Zernike expansion, Z6,6
+     Total Material
+       Kappa-Fission Rate                   3588.76 +/- 12832.1
+   Zernike expansion, Z7,-7
+     Total Material
+       Kappa-Fission Rate                   -3347.1 +/- 11118.7
+   Zernike expansion, Z7,-5
+     Total Material
+       Kappa-Fission Rate                   6725.58 +/- 11673.9
+   Zernike expansion, Z7,-3
+     Total Material
+       Kappa-Fission Rate                   -11991.8 +/- 11583.7
+   Zernike expansion, Z7,-1
+     Total Material
+       Kappa-Fission Rate                   -3046.27 +/- 9072.14
+   Zernike expansion, Z7,1
+     Total Material
+       Kappa-Fission Rate                   -6127.85 +/- 9861.81
+   Zernike expansion, Z7,3
+     Total Material
+       Kappa-Fission Rate                   -2053.56 +/- 10528
+   Zernike expansion, Z7,5
+     Total Material
+       Kappa-Fission Rate                   -5528.87 +/- 10464.7
+   Zernike expansion, Z7,7
+     Total Material
+       Kappa-Fission Rate                   2368.81 +/- 11201.2
+   Zernike expansion, Z8,-8
+     Total Material
+       Kappa-Fission Rate                   24.9698 +/- 10769.8
+   Zernike expansion, Z8,-6
+     Total Material
+       Kappa-Fission Rate                   -11138.2 +/- 10241.4
+   Zernike expansion, Z8,-4
+     Total Material
+       Kappa-Fission Rate                   5780.68 +/- 11628.6
+   Zernike expansion, Z8,-2
+     Total Material
+       Kappa-Fission Rate                   -4315.26 +/- 8998.06
+   Zernike expansion, Z8,0
+     Total Material
+       Kappa-Fission Rate                   -625264 +/- 13705.7
+   Zernike expansion, Z8,2
+     Total Material
+       Kappa-Fission Rate                   5886.86 +/- 8449.7
+   Zernike expansion, Z8,4
+     Total Material
+       Kappa-Fission Rate                   -5635.63 +/- 11413.4
+   Zernike expansion, Z8,6
+     Total Material
+       Kappa-Fission Rate                   1402.57 +/- 10468
+   Zernike expansion, Z8,8
+     Total Material
+       Kappa-Fission Rate                   -334926 +/- 10842.7
+   Zernike expansion, Z9,-9
+     Total Material
+       Kappa-Fission Rate                   -8620.39 +/- 9515.55
+   Zernike expansion, Z9,-7
+     Total Material
+       Kappa-Fission Rate                   657.959 +/- 9944.56
+   Zernike expansion, Z9,-5
+     Total Material
+       Kappa-Fission Rate                   3781.82 +/- 9164.69
+   Zernike expansion, Z9,-3
+     Total Material
+       Kappa-Fission Rate                   6260.38 +/- 9326.49
+   Zernike expansion, Z9,-1
+     Total Material
+       Kappa-Fission Rate                   16253.5 +/- 8563.96
+   Zernike expansion, Z9,1
+     Total Material
+       Kappa-Fission Rate                   -1277.86 +/- 9018.92
+   Zernike expansion, Z9,3
+     Total Material
+       Kappa-Fission Rate                   7882.55 +/- 9192.53
+   Zernike expansion, Z9,5
+     Total Material
+       Kappa-Fission Rate                   -2770.92 +/- 10179.9
+   Zernike expansion, Z9,7
+     Total Material
+       Kappa-Fission Rate                   -10205.5 +/- 10339.8
+   Zernike expansion, Z9,9
+     Total Material
+       Kappa-Fission Rate                   1432.73 +/- 10387.9
+   Zernike expansion, Z10,-10
+     Total Material
+       Kappa-Fission Rate                   2513.56 +/- 10007.6
+   Zernike expansion, Z10,-8
+     Total Material
+       Kappa-Fission Rate                   -7005.05 +/- 10112.2
+   Zernike expansion, Z10,-6
+     Total Material
+       Kappa-Fission Rate                   5899.08 +/- 9481.36
+   Zernike expansion, Z10,-4
+     Total Material
+       Kappa-Fission Rate                   2056.79 +/- 9755.44
+   Zernike expansion, Z10,-2
+     Total Material
+       Kappa-Fission Rate                   -3600.53 +/- 7977.27
+   Zernike expansion, Z10,0
+     Total Material
+       Kappa-Fission Rate                   -1.17149e+06 +/- 11156.2
+   Zernike expansion, Z10,2
+     Total Material
+       Kappa-Fission Rate                   7322.71 +/- 8553.52
+   Zernike expansion, Z10,4
+     Total Material
+       Kappa-Fission Rate                   11496.1 +/- 9118.39
+   Zernike expansion, Z10,6
+     Total Material
+       Kappa-Fission Rate                   -3774.56 +/- 9438.27
+   Zernike expansion, Z10,8
+     Total Material
+       Kappa-Fission Rate                   -275137 +/- 9896.16
+   Zernike expansion, Z10,10
+     Total Material
+       Kappa-Fission Rate                   -5311.5 +/- 8494.48
+   Zernike expansion, Z11,-11
+     Total Material
+       Kappa-Fission Rate                   1564.68 +/- 8231.38
+   Zernike expansion, Z11,-9
+     Total Material
+       Kappa-Fission Rate                   3478.72 +/- 9111.19
+   Zernike expansion, Z11,-7
+     Total Material
+       Kappa-Fission Rate                   -1067.46 +/- 9029.23
+   Zernike expansion, Z11,-5
+     Total Material
+       Kappa-Fission Rate                   -14912.6 +/- 9408.89
+   Zernike expansion, Z11,-3
+     Total Material
+       Kappa-Fission Rate                   18986.3 +/- 7775.56
+   Zernike expansion, Z11,-1
+     Total Material
+       Kappa-Fission Rate                   -1068.67 +/- 7711.87
+   Zernike expansion, Z11,1
+     Total Material
+       Kappa-Fission Rate                   5132.92 +/- 7583.79
+   Zernike expansion, Z11,3
+     Total Material
+       Kappa-Fission Rate                   -354.406 +/- 8120.4
+   Zernike expansion, Z11,5
+     Total Material
+       Kappa-Fission Rate                   -208.699 +/- 9204.94
+   Zernike expansion, Z11,7
+     Total Material
+       Kappa-Fission Rate                   17114.3 +/- 9162.69
+   Zernike expansion, Z11,9
+     Total Material
+       Kappa-Fission Rate                   1211.73 +/- 8374.87
+   Zernike expansion, Z11,11
+     Total Material
+       Kappa-Fission Rate                   3237.37 +/- 8801.04
+   Zernike expansion, Z12,-12
+     Total Material
+       Kappa-Fission Rate                   10470.1 +/- 8154.79
+   Zernike expansion, Z12,-10
+     Total Material
+       Kappa-Fission Rate                   -7301.16 +/- 7521.21
+   Zernike expansion, Z12,-8
+     Total Material
+       Kappa-Fission Rate                   7442.4 +/- 8624.8
+   Zernike expansion, Z12,-6
+     Total Material
+       Kappa-Fission Rate                   14607 +/- 8469.24
+   Zernike expansion, Z12,-4
+     Total Material
+       Kappa-Fission Rate                   6782.03 +/- 8460.39
+   Zernike expansion, Z12,-2
+     Total Material
+       Kappa-Fission Rate                   490.576 +/- 7221.45
+   Zernike expansion, Z12,0
+     Total Material
+       Kappa-Fission Rate                   1.12622e+06 +/- 10092.1
+   Zernike expansion, Z12,2
+     Total Material
+       Kappa-Fission Rate                   -4253.02 +/- 7885.43
+   Zernike expansion, Z12,4
+     Total Material
+       Kappa-Fission Rate                   4755.47 +/- 7623.86
+   Zernike expansion, Z12,6
+     Total Material
+       Kappa-Fission Rate                   -4012.77 +/- 8778.55
+   Zernike expansion, Z12,8
+     Total Material
+       Kappa-Fission Rate                   -198070 +/- 9206.79
+   Zernike expansion, Z12,10
+     Total Material
+       Kappa-Fission Rate                   -14067.5 +/- 8837.86
+   Zernike expansion, Z12,12
+     Total Material
+       Kappa-Fission Rate                   -8633.56 +/- 8190.14
+   Zernike expansion, Z13,-13
+     Total Material
+       Kappa-Fission Rate                   15575.8 +/- 8367.68
+   Zernike expansion, Z13,-11
+     Total Material
+       Kappa-Fission Rate                   -9223.72 +/- 8000.15
+   Zernike expansion, Z13,-9
+     Total Material
+       Kappa-Fission Rate                   -11528.5 +/- 8347.69
+   Zernike expansion, Z13,-7
+     Total Material
+       Kappa-Fission Rate                   1114.35 +/- 7969.83
+   Zernike expansion, Z13,-5
+     Total Material
+       Kappa-Fission Rate                   -8292.65 +/- 7575.89
+   Zernike expansion, Z13,-3
+     Total Material
+       Kappa-Fission Rate                   2300.18 +/- 7546.3
+   Zernike expansion, Z13,-1
+     Total Material
+       Kappa-Fission Rate                   8174.11 +/- 6986.02
+   Zernike expansion, Z13,1
+     Total Material
+       Kappa-Fission Rate                   7820.62 +/- 7525.47
+   Zernike expansion, Z13,3
+     Total Material
+       Kappa-Fission Rate                   -2691.25 +/- 7123.2
+   Zernike expansion, Z13,5
+     Total Material
+       Kappa-Fission Rate                   3964.2 +/- 7796.27
+   Zernike expansion, Z13,7
+     Total Material
+       Kappa-Fission Rate                   -10596.5 +/- 8706.13
+   Zernike expansion, Z13,9
+     Total Material
+       Kappa-Fission Rate                   9512.1 +/- 7400.44
+   Zernike expansion, Z13,11
+     Total Material
+       Kappa-Fission Rate                   -972.044 +/- 8652.3
+   Zernike expansion, Z13,13
+     Total Material
+       Kappa-Fission Rate                   2191.19 +/- 7964.61
+   Zernike expansion, Z14,-14
+     Total Material
+       Kappa-Fission Rate                   7973.79 +/- 8270.02
+   Zernike expansion, Z14,-12
+     Total Material
+       Kappa-Fission Rate                   2505.63 +/- 9002.51
+   Zernike expansion, Z14,-10
+     Total Material
+       Kappa-Fission Rate                   23936.3 +/- 7914.11
+   Zernike expansion, Z14,-8
+     Total Material
+       Kappa-Fission Rate                   2688.05 +/- 8045.36
+   Zernike expansion, Z14,-6
+     Total Material
+       Kappa-Fission Rate                   10525.5 +/- 7828.6
+   Zernike expansion, Z14,-4
+     Total Material
+       Kappa-Fission Rate                   -3120.05 +/- 6789.26
+   Zernike expansion, Z14,-2
+     Total Material
+       Kappa-Fission Rate                   -5539.59 +/- 7289.42
+   Zernike expansion, Z14,0
+     Total Material
+       Kappa-Fission Rate                   -859819 +/- 9008.28
+   Zernike expansion, Z14,2
+     Total Material
+       Kappa-Fission Rate                   -781.304 +/- 6850.44
+   Zernike expansion, Z14,4
+     Total Material
+       Kappa-Fission Rate                   -5867.6 +/- 7203.44
+   Zernike expansion, Z14,6
+     Total Material
+       Kappa-Fission Rate                   -2488.39 +/- 7559.07
+   Zernike expansion, Z14,8
+     Total Material
+       Kappa-Fission Rate                   -137594 +/- 7558.54
+   Zernike expansion, Z14,10
+     Total Material
+       Kappa-Fission Rate                   17685.6 +/- 7498.05
+   Zernike expansion, Z14,12
+     Total Material
+       Kappa-Fission Rate                   13541.7 +/- 8756.33
+   Zernike expansion, Z14,14
+     Total Material
+       Kappa-Fission Rate                   5640.51 +/- 8261.99
+   Zernike expansion, Z15,-15
+     Total Material
+       Kappa-Fission Rate                   3023.67 +/- 7799.73
+   Zernike expansion, Z15,-13
+     Total Material
+       Kappa-Fission Rate                   1087.95 +/- 7699.12
+   Zernike expansion, Z15,-11
+     Total Material
+       Kappa-Fission Rate                   10901.5 +/- 7551.07
+   Zernike expansion, Z15,-9
+     Total Material
+       Kappa-Fission Rate                   16215.9 +/- 7565.77
+   Zernike expansion, Z15,-7
+     Total Material
+       Kappa-Fission Rate                   -150.723 +/- 7089.96
+   Zernike expansion, Z15,-5
+     Total Material
+       Kappa-Fission Rate                   12077.4 +/- 6343.37
+   Zernike expansion, Z15,-3
+     Total Material
+       Kappa-Fission Rate                   -1304.08 +/- 6309.46
+   Zernike expansion, Z15,-1
+     Total Material
+       Kappa-Fission Rate                   15959.4 +/- 6808.66
+   Zernike expansion, Z15,1
+     Total Material
+       Kappa-Fission Rate                   8670.74 +/- 6439.62
+   Zernike expansion, Z15,3
+     Total Material
+       Kappa-Fission Rate                   2932.15 +/- 6746.01
+   Zernike expansion, Z15,5
+     Total Material
+       Kappa-Fission Rate                   -627.535 +/- 7303.86
+   Zernike expansion, Z15,7
+     Total Material
+       Kappa-Fission Rate                   3346.45 +/- 8117.01
+   Zernike expansion, Z15,9
+     Total Material
+       Kappa-Fission Rate                   1399.77 +/- 7565.72
+   Zernike expansion, Z15,11
+     Total Material
+       Kappa-Fission Rate                   5938.5 +/- 7766.8
+   Zernike expansion, Z15,13
+     Total Material
+       Kappa-Fission Rate                   -5191.23 +/- 7569.25
+   Zernike expansion, Z15,15
+     Total Material
+       Kappa-Fission Rate                   -14202 +/- 6891.42
+   Zernike expansion, Z16,-16
+     Total Material
+       Kappa-Fission Rate                   15461.2 +/- 7240.77
+   Zernike expansion, Z16,-14
+     Total Material
+       Kappa-Fission Rate                   -8105.08 +/- 7439.02
+   Zernike expansion, Z16,-12
+     Total Material
+       Kappa-Fission Rate                   1953.4 +/- 7513.44
+   Zernike expansion, Z16,-10
+     Total Material
+       Kappa-Fission Rate                   -3312.44 +/- 7877.99
+   Zernike expansion, Z16,-8
+     Total Material
+       Kappa-Fission Rate                   -10305.5 +/- 7136.6
+   Zernike expansion, Z16,-6
+     Total Material
+       Kappa-Fission Rate                   -4767.24 +/- 7403.59
+   Zernike expansion, Z16,-4
+     Total Material
+       Kappa-Fission Rate                   -12134.1 +/- 6430.45
+   Zernike expansion, Z16,-2
+     Total Material
+       Kappa-Fission Rate                   2541.41 +/- 6917.97
+   Zernike expansion, Z16,0
+     Total Material
+       Kappa-Fission Rate                   7817.13 +/- 8220.78
+   Zernike expansion, Z16,2
+     Total Material
+       Kappa-Fission Rate                   1803.84 +/- 6849.64
+   Zernike expansion, Z16,4
+     Total Material
+       Kappa-Fission Rate                   1806.59 +/- 6329.53
+   Zernike expansion, Z16,6
+     Total Material
+       Kappa-Fission Rate                   -2276.57 +/- 7090.25
+   Zernike expansion, Z16,8
+     Total Material
+       Kappa-Fission Rate                   -87829.8 +/- 7770.38
+   Zernike expansion, Z16,10
+     Total Material
+       Kappa-Fission Rate                   -6613.47 +/- 7433.88
+   Zernike expansion, Z16,12
+     Total Material
+       Kappa-Fission Rate                   -22470.8 +/- 7384.7
+   Zernike expansion, Z16,14
+     Total Material
+       Kappa-Fission Rate                   9449.45 +/- 6888.31
+   Zernike expansion, Z16,16
+     Total Material
+       Kappa-Fission Rate                   -292126 +/- 7180.5
+   Zernike expansion, Z17,-17
+     Total Material
+       Kappa-Fission Rate                   -10690.1 +/- 6981.16
+   Zernike expansion, Z17,-15
+     Total Material
+       Kappa-Fission Rate                   4341.27 +/- 7239.53
+   Zernike expansion, Z17,-13
+     Total Material
+       Kappa-Fission Rate                   8638.52 +/- 6816.46
+   Zernike expansion, Z17,-11
+     Total Material
+       Kappa-Fission Rate                   10027.8 +/- 7574.69
+   Zernike expansion, Z17,-9
+     Total Material
+       Kappa-Fission Rate                   -7986.57 +/- 7884.05
+   Zernike expansion, Z17,-7
+     Total Material
+       Kappa-Fission Rate                   -2799.78 +/- 7600.38
+   Zernike expansion, Z17,-5
+     Total Material
+       Kappa-Fission Rate                   -2277.82 +/- 6126.67
+   Zernike expansion, Z17,-3
+     Total Material
+       Kappa-Fission Rate                   -2725.57 +/- 6199.93
+   Zernike expansion, Z17,-1
+     Total Material
+       Kappa-Fission Rate                   -4258.03 +/- 6071.33
+   Zernike expansion, Z17,1
+     Total Material
+       Kappa-Fission Rate                   876.958 +/- 6964.27
+   Zernike expansion, Z17,3
+     Total Material
+       Kappa-Fission Rate                   -658.311 +/- 6311.48
+   Zernike expansion, Z17,5
+     Total Material
+       Kappa-Fission Rate                   -4185.43 +/- 6442.03
+   Zernike expansion, Z17,7
+     Total Material
+       Kappa-Fission Rate                   -1079.39 +/- 7234.8
+   Zernike expansion, Z17,9
+     Total Material
+       Kappa-Fission Rate                   -12626.8 +/- 6761.1
+   Zernike expansion, Z17,11
+     Total Material
+       Kappa-Fission Rate                   -3115.52 +/- 7065.5
+   Zernike expansion, Z17,13
+     Total Material
+       Kappa-Fission Rate                   2283.88 +/- 8072.99
+   Zernike expansion, Z17,15
+     Total Material
+       Kappa-Fission Rate                   15954.6 +/- 6930.73
+   Zernike expansion, Z17,17
+     Total Material
+       Kappa-Fission Rate                   -6234.16 +/- 6814.18
+   Zernike expansion, Z18,-18
+     Total Material
+       Kappa-Fission Rate                   -11052.1 +/- 6756.93
+   Zernike expansion, Z18,-16
+     Total Material
+       Kappa-Fission Rate                   6010.67 +/- 7136.93
+   Zernike expansion, Z18,-14
+     Total Material
+       Kappa-Fission Rate                   -8384.66 +/- 7051.82
+   Zernike expansion, Z18,-12
+     Total Material
+       Kappa-Fission Rate                   3373.41 +/- 7229.72
+   Zernike expansion, Z18,-10
+     Total Material
+       Kappa-Fission Rate                   10749.6 +/- 6808.23
+   Zernike expansion, Z18,-8
+     Total Material
+       Kappa-Fission Rate                   15315.5 +/- 6660.85
+   Zernike expansion, Z18,-6
+     Total Material
+       Kappa-Fission Rate                   7869.54 +/- 6367.85
+   Zernike expansion, Z18,-4
+     Total Material
+       Kappa-Fission Rate                   141.543 +/- 5912.8
+   Zernike expansion, Z18,-2
+     Total Material
+       Kappa-Fission Rate                   -1928.33 +/- 5958.06
+   Zernike expansion, Z18,0
+     Total Material
+       Kappa-Fission Rate                   506548 +/- 8216.12
+   Zernike expansion, Z18,2
+     Total Material
+       Kappa-Fission Rate                   -5403.82 +/- 5559.13
+   Zernike expansion, Z18,4
+     Total Material
+       Kappa-Fission Rate                   -6133.19 +/- 6195.32
+   Zernike expansion, Z18,6
+     Total Material
+       Kappa-Fission Rate                   267.308 +/- 6124.65
+   Zernike expansion, Z18,8
+     Total Material
+       Kappa-Fission Rate                   -39873 +/- 6655.63
+   Zernike expansion, Z18,10
+     Total Material
+       Kappa-Fission Rate                   -3524.06 +/- 7203.31
+   Zernike expansion, Z18,12
+     Total Material
+       Kappa-Fission Rate                   -3536.14 +/- 6790.59
+   Zernike expansion, Z18,14
+     Total Material
+       Kappa-Fission Rate                   3525.59 +/- 6711.03
+   Zernike expansion, Z18,16
+     Total Material
+       Kappa-Fission Rate                   -176467 +/- 6911.38
+   Zernike expansion, Z18,18
+     Total Material
+       Kappa-Fission Rate                   1343.74 +/- 6484.05
+   Zernike expansion, Z19,-19
+     Total Material
+       Kappa-Fission Rate                   -2463.22 +/- 6130.42
+   Zernike expansion, Z19,-17
+     Total Material
+       Kappa-Fission Rate                   -5964.56 +/- 6434.58
+   Zernike expansion, Z19,-15
+     Total Material
+       Kappa-Fission Rate                   -5045.97 +/- 7138.97
+   Zernike expansion, Z19,-13
+     Total Material
+       Kappa-Fission Rate                   -8350.3 +/- 7248.84
+   Zernike expansion, Z19,-11
+     Total Material
+       Kappa-Fission Rate                   -2367.64 +/- 6703.42
+   Zernike expansion, Z19,-9
+     Total Material
+       Kappa-Fission Rate                   -1692.6 +/- 6404.31
+   Zernike expansion, Z19,-7
+     Total Material
+       Kappa-Fission Rate                   12798.2 +/- 6503.8
+   Zernike expansion, Z19,-5
+     Total Material
+       Kappa-Fission Rate                   -12016.2 +/- 5603.5
+   Zernike expansion, Z19,-3
+     Total Material
+       Kappa-Fission Rate                   -4774.11 +/- 6352.82
+   Zernike expansion, Z19,-1
+     Total Material
+       Kappa-Fission Rate                   -8228.77 +/- 5741.31
+   Zernike expansion, Z19,1
+     Total Material
+       Kappa-Fission Rate                   -9387.83 +/- 6021.35
+   Zernike expansion, Z19,3
+     Total Material
+       Kappa-Fission Rate                   -6321.82 +/- 5826.73
+   Zernike expansion, Z19,5
+     Total Material
+       Kappa-Fission Rate                   3595.8 +/- 6072.09
+   Zernike expansion, Z19,7
+     Total Material
+       Kappa-Fission Rate                   -5213.48 +/- 6243.56
+   Zernike expansion, Z19,9
+     Total Material
+       Kappa-Fission Rate                   896.199 +/- 6622.01
+   Zernike expansion, Z19,11
+     Total Material
+       Kappa-Fission Rate                   -502.838 +/- 7471.03
+   Zernike expansion, Z19,13
+     Total Material
+       Kappa-Fission Rate                   -10441.6 +/- 6396.33
+   Zernike expansion, Z19,15
+     Total Material
+       Kappa-Fission Rate                   757.093 +/- 6519.59
+   Zernike expansion, Z19,17
+     Total Material
+       Kappa-Fission Rate                   -672.787 +/- 6711.63
+   Zernike expansion, Z19,19
+     Total Material
+       Kappa-Fission Rate                   1988.59 +/- 6624.97
+   Zernike expansion, Z20,-20
+     Total Material
+       Kappa-Fission Rate                   -15556.9 +/- 6175.15
+   Zernike expansion, Z20,-18
+     Total Material
+       Kappa-Fission Rate                   12037.8 +/- 7153.75
+   Zernike expansion, Z20,-16
+     Total Material
+       Kappa-Fission Rate                   829.396 +/- 6615.75
+   Zernike expansion, Z20,-14
+     Total Material
+       Kappa-Fission Rate                   553.028 +/- 6341.27
+   Zernike expansion, Z20,-12
+     Total Material
+       Kappa-Fission Rate                   -5211.07 +/- 5831.98
+   Zernike expansion, Z20,-10
+     Total Material
+       Kappa-Fission Rate                   11897.3 +/- 6095.17
+   Zernike expansion, Z20,-8
+     Total Material
+       Kappa-Fission Rate                   2356.56 +/- 6101.44
+   Zernike expansion, Z20,-6
+     Total Material
+       Kappa-Fission Rate                   13598.4 +/- 5816.26
+   Zernike expansion, Z20,-4
+     Total Material
+       Kappa-Fission Rate                   8955.71 +/- 5795.33
+   Zernike expansion, Z20,-2
+     Total Material
+       Kappa-Fission Rate                   -7644.83 +/- 5480.43
+   Zernike expansion, Z20,0
+     Total Material
+       Kappa-Fission Rate                   -586595 +/- 7949.6
+   Zernike expansion, Z20,2
+     Total Material
+       Kappa-Fission Rate                   4050.36 +/- 5859.76
+   Zernike expansion, Z20,4
+     Total Material
+       Kappa-Fission Rate                   -6906.65 +/- 6274.16
+   Zernike expansion, Z20,6
+     Total Material
+       Kappa-Fission Rate                   -1061.53 +/- 5505.19
+   Zernike expansion, Z20,8
+     Total Material
+       Kappa-Fission Rate                   14207.3 +/- 6370.33
+   Zernike expansion, Z20,10
+     Total Material
+       Kappa-Fission Rate                   -13025.2 +/- 5908.09
+   Zernike expansion, Z20,12
+     Total Material
+       Kappa-Fission Rate                   11956.8 +/- 6933.53
+   Zernike expansion, Z20,14
+     Total Material
+       Kappa-Fission Rate                   7435.17 +/- 6565.72
+   Zernike expansion, Z20,16
+     Total Material
+       Kappa-Fission Rate                   -91113.5 +/- 6121.29
+   Zernike expansion, Z20,18
+     Total Material
+       Kappa-Fission Rate                   -4311.06 +/- 6702.72
+   Zernike expansion, Z20,20
+     Total Material
+       Kappa-Fission Rate                   -12793.4 +/- 6213.73
+   Zernike expansion, Z21,-21
+     Total Material
+       Kappa-Fission Rate                   2645.18 +/- 5830.35
+   Zernike expansion, Z21,-19
+     Total Material
+       Kappa-Fission Rate                   -3890.87 +/- 6471.79
+   Zernike expansion, Z21,-17
+     Total Material
+       Kappa-Fission Rate                   8633.85 +/- 6351.7
+   Zernike expansion, Z21,-15
+     Total Material
+       Kappa-Fission Rate                   -3826.89 +/- 5542.62
+   Zernike expansion, Z21,-13
+     Total Material
+       Kappa-Fission Rate                   -6403.92 +/- 6697.01
+   Zernike expansion, Z21,-11
+     Total Material
+       Kappa-Fission Rate                   -592.299 +/- 5741.07
+   Zernike expansion, Z21,-9
+     Total Material
+       Kappa-Fission Rate                   2905.86 +/- 6142.97
+   Zernike expansion, Z21,-7
+     Total Material
+       Kappa-Fission Rate                   -1857.49 +/- 5916.55
+   Zernike expansion, Z21,-5
+     Total Material
+       Kappa-Fission Rate                   -612.271 +/- 5921.45
+   Zernike expansion, Z21,-3
+     Total Material
+       Kappa-Fission Rate                   4303.59 +/- 5365.33
+   Zernike expansion, Z21,-1
+     Total Material
+       Kappa-Fission Rate                   -2224.03 +/- 5639.75
+   Zernike expansion, Z21,1
+     Total Material
+       Kappa-Fission Rate                   -8498.41 +/- 5318.1
+   Zernike expansion, Z21,3
+     Total Material
+       Kappa-Fission Rate                   621.239 +/- 5527.72
+   Zernike expansion, Z21,5
+     Total Material
+       Kappa-Fission Rate                   1927.13 +/- 5784.14
+   Zernike expansion, Z21,7
+     Total Material
+       Kappa-Fission Rate                   6447.98 +/- 6275.22
+   Zernike expansion, Z21,9
+     Total Material
+       Kappa-Fission Rate                   -8031.77 +/- 6474.37
+   Zernike expansion, Z21,11
+     Total Material
+       Kappa-Fission Rate                   -7060.72 +/- 6215.26
+   Zernike expansion, Z21,13
+     Total Material
+       Kappa-Fission Rate                   3080.98 +/- 6525.01
+   Zernike expansion, Z21,15
+     Total Material
+       Kappa-Fission Rate                   -13572.8 +/- 6404.7
+   Zernike expansion, Z21,17
+     Total Material
+       Kappa-Fission Rate                   1287.54 +/- 6507.68
+   Zernike expansion, Z21,19
+     Total Material
+       Kappa-Fission Rate                   5411.17 +/- 6469.31
+   Zernike expansion, Z21,21
+     Total Material
+       Kappa-Fission Rate                   -2788.04 +/- 5814.15
+   Zernike expansion, Z22,-22
+     Total Material
+       Kappa-Fission Rate                   -1003.14 +/- 5498.75
+   Zernike expansion, Z22,-20
+     Total Material
+       Kappa-Fission Rate                   7264.1 +/- 5998.24
+   Zernike expansion, Z22,-18
+     Total Material
+       Kappa-Fission Rate                   -2933.55 +/- 5542.4
+   Zernike expansion, Z22,-16
+     Total Material
+       Kappa-Fission Rate                   -1513.04 +/- 6492.12
+   Zernike expansion, Z22,-14
+     Total Material
+       Kappa-Fission Rate                   -5287.66 +/- 6841.79
+   Zernike expansion, Z22,-12
+     Total Material
+       Kappa-Fission Rate                   5103.62 +/- 6117.69
+   Zernike expansion, Z22,-10
+     Total Material
+       Kappa-Fission Rate                   2729.79 +/- 6811.92
+   Zernike expansion, Z22,-8
+     Total Material
+       Kappa-Fission Rate                   -2835.82 +/- 6001.1
+   Zernike expansion, Z22,-6
+     Total Material
+       Kappa-Fission Rate                   10189.1 +/- 5115.56
+   Zernike expansion, Z22,-4
+     Total Material
+       Kappa-Fission Rate                   3582.71 +/- 5950.19
+   Zernike expansion, Z22,-2
+     Total Material
+       Kappa-Fission Rate                   -2841.36 +/- 5407.69
+   Zernike expansion, Z22,0
+     Total Material
+       Kappa-Fission Rate                   389476 +/- 8258.3
+   Zernike expansion, Z22,2
+     Total Material
+       Kappa-Fission Rate                   8180.19 +/- 5213.18
+   Zernike expansion, Z22,4
+     Total Material
+       Kappa-Fission Rate                   9023.16 +/- 5152
+   Zernike expansion, Z22,6
+     Total Material
+       Kappa-Fission Rate                   2871.45 +/- 5328.49
+   Zernike expansion, Z22,8
+     Total Material
+       Kappa-Fission Rate                   31695.9 +/- 5797.15
+   Zernike expansion, Z22,10
+     Total Material
+       Kappa-Fission Rate                   6376.39 +/- 6131.97
+   Zernike expansion, Z22,12
+     Total Material
+       Kappa-Fission Rate                   5894.16 +/- 6038.71
+   Zernike expansion, Z22,14
+     Total Material
+       Kappa-Fission Rate                   8345.2 +/- 6658.23
+   Zernike expansion, Z22,16
+     Total Material
+       Kappa-Fission Rate                   -30761.7 +/- 6155.77
+   Zernike expansion, Z22,18
+     Total Material
+       Kappa-Fission Rate                   7710.51 +/- 6389.06
+   Zernike expansion, Z22,20
+     Total Material
+       Kappa-Fission Rate                   3725.58 +/- 6250.84
+   Zernike expansion, Z22,22
+     Total Material
+       Kappa-Fission Rate                   -2395.13 +/- 5414.37
+   Zernike expansion, Z23,-23
+     Total Material
+       Kappa-Fission Rate                   -2028.3 +/- 5766.95
+   Zernike expansion, Z23,-21
+     Total Material
+       Kappa-Fission Rate                   2147.45 +/- 5871.09
+   Zernike expansion, Z23,-19
+     Total Material
+       Kappa-Fission Rate                   208.806 +/- 6126.57
+   Zernike expansion, Z23,-17
+     Total Material
+       Kappa-Fission Rate                   11950.2 +/- 6313.95
+   Zernike expansion, Z23,-15
+     Total Material
+       Kappa-Fission Rate                   -3671.4 +/- 6041.14
+   Zernike expansion, Z23,-13
+     Total Material
+       Kappa-Fission Rate                   471.185 +/- 6401.61
+   Zernike expansion, Z23,-11
+     Total Material
+       Kappa-Fission Rate                   10033.5 +/- 6244.27
+   Zernike expansion, Z23,-9
+     Total Material
+       Kappa-Fission Rate                   2961.26 +/- 6110
+   Zernike expansion, Z23,-7
+     Total Material
+       Kappa-Fission Rate                   -9218.48 +/- 5035.6
+   Zernike expansion, Z23,-5
+     Total Material
+       Kappa-Fission Rate                   2998.98 +/- 5180.41
+   Zernike expansion, Z23,-3
+     Total Material
+       Kappa-Fission Rate                   1198.23 +/- 5061.82
+   Zernike expansion, Z23,-1
+     Total Material
+       Kappa-Fission Rate                   -2856.69 +/- 5323.56
+   Zernike expansion, Z23,1
+     Total Material
+       Kappa-Fission Rate                   -610.519 +/- 4910.67
+   Zernike expansion, Z23,3
+     Total Material
+       Kappa-Fission Rate                   7331.64 +/- 5178.05
+   Zernike expansion, Z23,5
+     Total Material
+       Kappa-Fission Rate                   -2684.54 +/- 5368.73
+   Zernike expansion, Z23,7
+     Total Material
+       Kappa-Fission Rate                   7018.97 +/- 5369.47
+   Zernike expansion, Z23,9
+     Total Material
+       Kappa-Fission Rate                   5909.94 +/- 5881.63
+   Zernike expansion, Z23,11
+     Total Material
+       Kappa-Fission Rate                   -576.539 +/- 6498.39
+   Zernike expansion, Z23,13
+     Total Material
+       Kappa-Fission Rate                   3091.56 +/- 5764.32
+   Zernike expansion, Z23,15
+     Total Material
+       Kappa-Fission Rate                   4007.79 +/- 5558.49
+   Zernike expansion, Z23,17
+     Total Material
+       Kappa-Fission Rate                   -10268.8 +/- 5555.17
+   Zernike expansion, Z23,19
+     Total Material
+       Kappa-Fission Rate                   -15162.8 +/- 6417.73
+   Zernike expansion, Z23,21
+     Total Material
+       Kappa-Fission Rate                   11707.9 +/- 5866.26
+   Zernike expansion, Z23,23
+     Total Material
+       Kappa-Fission Rate                   -1932.14 +/- 5746.57
+   Zernike expansion, Z24,-24
+     Total Material
+       Kappa-Fission Rate                   644.075 +/- 5882.82
+   Zernike expansion, Z24,-22
+     Total Material
+       Kappa-Fission Rate                   3188.78 +/- 5390.79
+   Zernike expansion, Z24,-20
+     Total Material
+       Kappa-Fission Rate                   462.517 +/- 6318.73
+   Zernike expansion, Z24,-18
+     Total Material
+       Kappa-Fission Rate                   -6233.02 +/- 5411.01
+   Zernike expansion, Z24,-16
+     Total Material
+       Kappa-Fission Rate                   -3343.97 +/- 6444.33
+   Zernike expansion, Z24,-14
+     Total Material
+       Kappa-Fission Rate                   4190.28 +/- 6638.75
+   Zernike expansion, Z24,-12
+     Total Material
+       Kappa-Fission Rate                   12783.4 +/- 5655.03
+   Zernike expansion, Z24,-10
+     Total Material
+       Kappa-Fission Rate                   3871.89 +/- 5764.76
+   Zernike expansion, Z24,-8
+     Total Material
+       Kappa-Fission Rate                   1931.35 +/- 5479.15
+   Zernike expansion, Z24,-6
+     Total Material
+       Kappa-Fission Rate                   -2088.36 +/- 5136.83
+   Zernike expansion, Z24,-4
+     Total Material
+       Kappa-Fission Rate                   -1531.47 +/- 4935.77
+   Zernike expansion, Z24,-2
+     Total Material
+       Kappa-Fission Rate                   -5818.22 +/- 4966.82
+   Zernike expansion, Z24,0
+     Total Material
+       Kappa-Fission Rate                   74278.3 +/- 7394.02
+   Zernike expansion, Z24,2
+     Total Material
+       Kappa-Fission Rate                   -9442.64 +/- 5411.7
+   Zernike expansion, Z24,4
+     Total Material
+       Kappa-Fission Rate                   4562.4 +/- 4859.44
+   Zernike expansion, Z24,6
+     Total Material
+       Kappa-Fission Rate                   11072.9 +/- 5373.45
+   Zernike expansion, Z24,8
+     Total Material
+       Kappa-Fission Rate                   35679.8 +/- 5528.53
+   Zernike expansion, Z24,10
+     Total Material
+       Kappa-Fission Rate                   -4650.58 +/- 6088.72
+   Zernike expansion, Z24,12
+     Total Material
+       Kappa-Fission Rate                   8758.54 +/- 5784.68
+   Zernike expansion, Z24,14
+     Total Material
+       Kappa-Fission Rate                   -1939.9 +/- 6312.73
+   Zernike expansion, Z24,16
+     Total Material
+       Kappa-Fission Rate                   -2009.97 +/- 5717.7
+   Zernike expansion, Z24,18
+     Total Material
+       Kappa-Fission Rate                   4429.7 +/- 6234.66
+   Zernike expansion, Z24,20
+     Total Material
+       Kappa-Fission Rate                   5356.89 +/- 6217.44
+   Zernike expansion, Z24,22
+     Total Material
+       Kappa-Fission Rate                   -7803.84 +/- 5601.9
+   Zernike expansion, Z24,24
+     Total Material
+       Kappa-Fission Rate                   -214875 +/- 5652.04
+   Zernike expansion, Z25,-25
+     Total Material
+       Kappa-Fission Rate                   -3385.5 +/- 5141.24
+   Zernike expansion, Z25,-23
+     Total Material
+       Kappa-Fission Rate                   3507.03 +/- 5626.13
+   Zernike expansion, Z25,-21
+     Total Material
+       Kappa-Fission Rate                   -4844.74 +/- 6179.48
+   Zernike expansion, Z25,-19
+     Total Material
+       Kappa-Fission Rate                   -10231.6 +/- 5200.27
+   Zernike expansion, Z25,-17
+     Total Material
+       Kappa-Fission Rate                   1843.86 +/- 5539.57
+   Zernike expansion, Z25,-15
+     Total Material
+       Kappa-Fission Rate                   381.386 +/- 5862.8
+   Zernike expansion, Z25,-13
+     Total Material
+       Kappa-Fission Rate                   7591.04 +/- 5638
+   Zernike expansion, Z25,-11
+     Total Material
+       Kappa-Fission Rate                   7486.39 +/- 5852.68
+   Zernike expansion, Z25,-9
+     Total Material
+       Kappa-Fission Rate                   7838.11 +/- 6004.26
+   Zernike expansion, Z25,-7
+     Total Material
+       Kappa-Fission Rate                   2464.76 +/- 5213.19
+   Zernike expansion, Z25,-5
+     Total Material
+       Kappa-Fission Rate                   280.955 +/- 4753.77
+   Zernike expansion, Z25,-3
+     Total Material
+       Kappa-Fission Rate                   -4473.12 +/- 5233.23
+   Zernike expansion, Z25,-1
+     Total Material
+       Kappa-Fission Rate                   -3895.96 +/- 4832.59
+   Zernike expansion, Z25,1
+     Total Material
+       Kappa-Fission Rate                   1653.13 +/- 5137.15
+   Zernike expansion, Z25,3
+     Total Material
+       Kappa-Fission Rate                   -4857.52 +/- 4902.7
+   Zernike expansion, Z25,5
+     Total Material
+       Kappa-Fission Rate                   75.7708 +/- 4901.56
+   Zernike expansion, Z25,7
+     Total Material
+       Kappa-Fission Rate                   -2442.86 +/- 4803.73
+   Zernike expansion, Z25,9
+     Total Material
+       Kappa-Fission Rate                   -2067.45 +/- 5812.97
+   Zernike expansion, Z25,11
+     Total Material
+       Kappa-Fission Rate                   -4304.91 +/- 6155.04
+   Zernike expansion, Z25,13
+     Total Material
+       Kappa-Fission Rate                   -4029.75 +/- 6180.42
+   Zernike expansion, Z25,15
+     Total Material
+       Kappa-Fission Rate                   -1196.65 +/- 5906.59
+   Zernike expansion, Z25,17
+     Total Material
+       Kappa-Fission Rate                   -3330.48 +/- 5644.81
+   Zernike expansion, Z25,19
+     Total Material
+       Kappa-Fission Rate                   -3197.37 +/- 4997.97
+   Zernike expansion, Z25,21
+     Total Material
+       Kappa-Fission Rate                   -98.091 +/- 5729.44
+   Zernike expansion, Z25,23
+     Total Material
+       Kappa-Fission Rate                   5736.38 +/- 5549.93
+   Zernike expansion, Z25,25
+     Total Material
+       Kappa-Fission Rate                   -943.169 +/- 5391.63
+   Zernike expansion, Z26,-26
+     Total Material
+       Kappa-Fission Rate                   -5301.14 +/- 5290.87
+   Zernike expansion, Z26,-24
+     Total Material
+       Kappa-Fission Rate                   7275.05 +/- 5570.82
+   Zernike expansion, Z26,-22
+     Total Material
+       Kappa-Fission Rate                   4966.14 +/- 5789.27
+   Zernike expansion, Z26,-20
+     Total Material
+       Kappa-Fission Rate                   -7206.58 +/- 5728.84
+   Zernike expansion, Z26,-18
+     Total Material
+       Kappa-Fission Rate                   -97.5099 +/- 5494.15
+   Zernike expansion, Z26,-16
+     Total Material
+       Kappa-Fission Rate                   3687.88 +/- 5735.5
+   Zernike expansion, Z26,-14
+     Total Material
+       Kappa-Fission Rate                   -4397.81 +/- 5692.64
+   Zernike expansion, Z26,-12
+     Total Material
+       Kappa-Fission Rate                   6630.08 +/- 5954.03
+   Zernike expansion, Z26,-10
+     Total Material
+       Kappa-Fission Rate                   4453.16 +/- 5987.85
+   Zernike expansion, Z26,-8
+     Total Material
+       Kappa-Fission Rate                   2034.59 +/- 4807.4
+   Zernike expansion, Z26,-6
+     Total Material
+       Kappa-Fission Rate                   -3565.66 +/- 4910.24
+   Zernike expansion, Z26,-4
+     Total Material
+       Kappa-Fission Rate                   1826.8 +/- 4956.03
+   Zernike expansion, Z26,-2
+     Total Material
+       Kappa-Fission Rate                   -542.844 +/- 4783.93
+   Zernike expansion, Z26,0
+     Total Material
+       Kappa-Fission Rate                   -301594 +/- 6903.86
+   Zernike expansion, Z26,2
+     Total Material
+       Kappa-Fission Rate                   -10099.7 +/- 4642.34
+   Zernike expansion, Z26,4
+     Total Material
+       Kappa-Fission Rate                   -162.955 +/- 5096.13
+   Zernike expansion, Z26,6
+     Total Material
+       Kappa-Fission Rate                   5438.6 +/- 4914.09
+   Zernike expansion, Z26,8
+     Total Material
+       Kappa-Fission Rate                   38739.7 +/- 5205.42
+   Zernike expansion, Z26,10
+     Total Material
+       Kappa-Fission Rate                   -9526.68 +/- 5877.57
+   Zernike expansion, Z26,12
+     Total Material
+       Kappa-Fission Rate                   3423.88 +/- 5353.4
+   Zernike expansion, Z26,14
+     Total Material
+       Kappa-Fission Rate                   -5663.51 +/- 5790.9
+   Zernike expansion, Z26,16
+     Total Material
+       Kappa-Fission Rate                   33286.5 +/- 5860.19
+   Zernike expansion, Z26,18
+     Total Material
+       Kappa-Fission Rate                   -2387.22 +/- 5632.02
+   Zernike expansion, Z26,20
+     Total Material
+       Kappa-Fission Rate                   1687.37 +/- 5364.75
+   Zernike expansion, Z26,22
+     Total Material
+       Kappa-Fission Rate                   4147.56 +/- 5590.32
+   Zernike expansion, Z26,24
+     Total Material
+       Kappa-Fission Rate                   -95447.5 +/- 5277.57
+   Zernike expansion, Z26,26
+     Total Material
+       Kappa-Fission Rate                   -2574.31 +/- 4953.13
+   Zernike expansion, Z27,-27
+     Total Material
+       Kappa-Fission Rate                   -1437.93 +/- 5089.3
+   Zernike expansion, Z27,-25
+     Total Material
+       Kappa-Fission Rate                   -1615.79 +/- 5632.64
+   Zernike expansion, Z27,-23
+     Total Material
+       Kappa-Fission Rate                   10916.2 +/- 5654.64
+   Zernike expansion, Z27,-21
+     Total Material
+       Kappa-Fission Rate                   -6299.49 +/- 5062.78
+   Zernike expansion, Z27,-19
+     Total Material
+       Kappa-Fission Rate                   8277.03 +/- 5273.24
+   Zernike expansion, Z27,-17
+     Total Material
+       Kappa-Fission Rate                   6166.11 +/- 5309.51
+   Zernike expansion, Z27,-15
+     Total Material
+       Kappa-Fission Rate                   -7524.16 +/- 5685.06
+   Zernike expansion, Z27,-13
+     Total Material
+       Kappa-Fission Rate                   -3010.86 +/- 5458.91
+   Zernike expansion, Z27,-11
+     Total Material
+       Kappa-Fission Rate                   -6806.34 +/- 5645.69
+   Zernike expansion, Z27,-9
+     Total Material
+       Kappa-Fission Rate                   1233.61 +/- 5286.83
+   Zernike expansion, Z27,-7
+     Total Material
+       Kappa-Fission Rate                   4252.46 +/- 5076.41
+   Zernike expansion, Z27,-5
+     Total Material
+       Kappa-Fission Rate                   5546.73 +/- 4952.93
+   Zernike expansion, Z27,-3
+     Total Material
+       Kappa-Fission Rate                   -2924.33 +/- 4631.82
+   Zernike expansion, Z27,-1
+     Total Material
+       Kappa-Fission Rate                   -9004.65 +/- 4538.24
+   Zernike expansion, Z27,1
+     Total Material
+       Kappa-Fission Rate                   1116.84 +/- 4927.54
+   Zernike expansion, Z27,3
+     Total Material
+       Kappa-Fission Rate                   -9771.56 +/- 4653.63
+   Zernike expansion, Z27,5
+     Total Material
+       Kappa-Fission Rate                   -33.6424 +/- 5029.72
+   Zernike expansion, Z27,7
+     Total Material
+       Kappa-Fission Rate                   -9109.55 +/- 5110.3
+   Zernike expansion, Z27,9
+     Total Material
+       Kappa-Fission Rate                   -3505.65 +/- 4415.69
+   Zernike expansion, Z27,11
+     Total Material
+       Kappa-Fission Rate                   3646.83 +/- 6003.56
+   Zernike expansion, Z27,13
+     Total Material
+       Kappa-Fission Rate                   -9.06134 +/- 5547.36
+   Zernike expansion, Z27,15
+     Total Material
+       Kappa-Fission Rate                   -3667.47 +/- 5516.77
+   Zernike expansion, Z27,17
+     Total Material
+       Kappa-Fission Rate                   -4129.88 +/- 5220.08
+   Zernike expansion, Z27,19
+     Total Material
+       Kappa-Fission Rate                   346.706 +/- 5798.39
+   Zernike expansion, Z27,21
+     Total Material
+       Kappa-Fission Rate                   7457.68 +/- 5401.21
+   Zernike expansion, Z27,23
+     Total Material
+       Kappa-Fission Rate                   4586.6 +/- 5832.99
+   Zernike expansion, Z27,25
+     Total Material
+       Kappa-Fission Rate                   6337.84 +/- 5828.16
+   Zernike expansion, Z27,27
+     Total Material
+       Kappa-Fission Rate                   826.9 +/- 4556.23
+   Zernike expansion, Z28,-28
+     Total Material
+       Kappa-Fission Rate                   2808.75 +/- 4896.3
+   Zernike expansion, Z28,-26
+     Total Material
+       Kappa-Fission Rate                   -5301.47 +/- 5295.02
+   Zernike expansion, Z28,-24
+     Total Material
+       Kappa-Fission Rate                   -5952.76 +/- 5410.86
+   Zernike expansion, Z28,-22
+     Total Material
+       Kappa-Fission Rate                   -9674.07 +/- 5392.68
+   Zernike expansion, Z28,-20
+     Total Material
+       Kappa-Fission Rate                   -422.785 +/- 4963.18
+   Zernike expansion, Z28,-18
+     Total Material
+       Kappa-Fission Rate                   4632.23 +/- 5445.59
+   Zernike expansion, Z28,-16
+     Total Material
+       Kappa-Fission Rate                   2935.42 +/- 5887.38
+   Zernike expansion, Z28,-14
+     Total Material
+       Kappa-Fission Rate                   -5577.13 +/- 4926.24
+   Zernike expansion, Z28,-12
+     Total Material
+       Kappa-Fission Rate                   4765.22 +/- 5574.26
+   Zernike expansion, Z28,-10
+     Total Material
+       Kappa-Fission Rate                   -2466.48 +/- 5044.84
+   Zernike expansion, Z28,-8
+     Total Material
+       Kappa-Fission Rate                   3795.99 +/- 4785.77
+   Zernike expansion, Z28,-6
+     Total Material
+       Kappa-Fission Rate                   1139.37 +/- 4737.32
+   Zernike expansion, Z28,-4
+     Total Material
+       Kappa-Fission Rate                   3534.74 +/- 4991.95
+   Zernike expansion, Z28,-2
+     Total Material
+       Kappa-Fission Rate                   2526.71 +/- 5006.71
+   Zernike expansion, Z28,0
+     Total Material
+       Kappa-Fission Rate                   397727 +/- 6367.32
+   Zernike expansion, Z28,2
+     Total Material
+       Kappa-Fission Rate                   4089.69 +/- 4494.21
+   Zernike expansion, Z28,4
+     Total Material
+       Kappa-Fission Rate                   3669.89 +/- 4770.68
+   Zernike expansion, Z28,6
+     Total Material
+       Kappa-Fission Rate                   -2123.25 +/- 4607.49
+   Zernike expansion, Z28,8
+     Total Material
+       Kappa-Fission Rate                   36000.6 +/- 5165.67
+   Zernike expansion, Z28,10
+     Total Material
+       Kappa-Fission Rate                   8887.19 +/- 5197.73
+   Zernike expansion, Z28,12
+     Total Material
+       Kappa-Fission Rate                   317.744 +/- 5553.56
+   Zernike expansion, Z28,14
+     Total Material
+       Kappa-Fission Rate                   1658.06 +/- 5328.68
+   Zernike expansion, Z28,16
+     Total Material
+       Kappa-Fission Rate                   40105.2 +/- 5239.78
+   Zernike expansion, Z28,18
+     Total Material
+       Kappa-Fission Rate                   1429.5 +/- 4917.72
+   Zernike expansion, Z28,20
+     Total Material
+       Kappa-Fission Rate                   -4251.58 +/- 5668.39
+   Zernike expansion, Z28,22
+     Total Material
+       Kappa-Fission Rate                   1357.69 +/- 5495.24
+   Zernike expansion, Z28,24
+     Total Material
+       Kappa-Fission Rate                   -35764 +/- 5492.34
+   Zernike expansion, Z28,26
+     Total Material
+       Kappa-Fission Rate                   3219.16 +/- 4984.98
+   Zernike expansion, Z28,28
+     Total Material
+       Kappa-Fission Rate                   1150.91 +/- 5511.57
+   Zernike expansion, Z29,-29
+     Total Material
+       Kappa-Fission Rate                   4140.78 +/- 5247.06
+   Zernike expansion, Z29,-27
+     Total Material
+       Kappa-Fission Rate                   655.983 +/- 5295.05
+   Zernike expansion, Z29,-25
+     Total Material
+       Kappa-Fission Rate                   8517.66 +/- 5726.36
+   Zernike expansion, Z29,-23
+     Total Material
+       Kappa-Fission Rate                   7932.64 +/- 5472.62
+   Zernike expansion, Z29,-21
+     Total Material
+       Kappa-Fission Rate                   3063.15 +/- 5079.05
+   Zernike expansion, Z29,-19
+     Total Material
+       Kappa-Fission Rate                   -9235.2 +/- 4870.36
+   Zernike expansion, Z29,-17
+     Total Material
+       Kappa-Fission Rate                   -397.79 +/- 5062.98
+   Zernike expansion, Z29,-15
+     Total Material
+       Kappa-Fission Rate                   3677.29 +/- 5108.93
+   Zernike expansion, Z29,-13
+     Total Material
+       Kappa-Fission Rate                   10581 +/- 5491.52
+   Zernike expansion, Z29,-11
+     Total Material
+       Kappa-Fission Rate                   -5232.76 +/- 5623.27
+   Zernike expansion, Z29,-9
+     Total Material
+       Kappa-Fission Rate                   -3730.62 +/- 4978.52
+   Zernike expansion, Z29,-7
+     Total Material
+       Kappa-Fission Rate                   3465.87 +/- 5521.73
+   Zernike expansion, Z29,-5
+     Total Material
+       Kappa-Fission Rate                   11230.7 +/- 4784.42
+   Zernike expansion, Z29,-3
+     Total Material
+       Kappa-Fission Rate                   -6785.17 +/- 4008.62
+   Zernike expansion, Z29,-1
+     Total Material
+       Kappa-Fission Rate                   -1967.67 +/- 4412.35
+   Zernike expansion, Z29,1
+     Total Material
+       Kappa-Fission Rate                   353.652 +/- 5001.36
+   Zernike expansion, Z29,3
+     Total Material
+       Kappa-Fission Rate                   1689.36 +/- 4652.17
+   Zernike expansion, Z29,5
+     Total Material
+       Kappa-Fission Rate                   2188.82 +/- 5221.09
+   Zernike expansion, Z29,7
+     Total Material
+       Kappa-Fission Rate                   -1816.63 +/- 4550.78
+   Zernike expansion, Z29,9
+     Total Material
+       Kappa-Fission Rate                   -3287.54 +/- 4625.03
+   Zernike expansion, Z29,11
+     Total Material
+       Kappa-Fission Rate                   5802.62 +/- 5286.06
+   Zernike expansion, Z29,13
+     Total Material
+       Kappa-Fission Rate                   719.527 +/- 5249.48
+   Zernike expansion, Z29,15
+     Total Material
+       Kappa-Fission Rate                   5698.59 +/- 5165.26
+   Zernike expansion, Z29,17
+     Total Material
+       Kappa-Fission Rate                   -2069.81 +/- 5193.61
+   Zernike expansion, Z29,19
+     Total Material
+       Kappa-Fission Rate                   -2324.5 +/- 5142.87
+   Zernike expansion, Z29,21
+     Total Material
+       Kappa-Fission Rate                   6497.43 +/- 4882.99
+   Zernike expansion, Z29,23
+     Total Material
+       Kappa-Fission Rate                   5922.89 +/- 5174.1
+   Zernike expansion, Z29,25
+     Total Material
+       Kappa-Fission Rate                   3805.9 +/- 5948.41
+   Zernike expansion, Z29,27
+     Total Material
+       Kappa-Fission Rate                   -4278.49 +/- 5037.47
+   Zernike expansion, Z29,29
+     Total Material
+       Kappa-Fission Rate                   -5902.29 +/- 4800.6
+   Zernike expansion, Z30,-30
+     Total Material
+       Kappa-Fission Rate                   -1344.23 +/- 4743.1
+   Zernike expansion, Z30,-28
+     Total Material
+       Kappa-Fission Rate                   -7124.32 +/- 5357.07
+   Zernike expansion, Z30,-26
+     Total Material
+       Kappa-Fission Rate                   -3712.28 +/- 5127.31
+   Zernike expansion, Z30,-24
+     Total Material
+       Kappa-Fission Rate                   597.421 +/- 5303.26
+   Zernike expansion, Z30,-22
+     Total Material
+       Kappa-Fission Rate                   -1821.73 +/- 5200.36
+   Zernike expansion, Z30,-20
+     Total Material
+       Kappa-Fission Rate                   -4897.23 +/- 5590.17
+   Zernike expansion, Z30,-18
+     Total Material
+       Kappa-Fission Rate                   -6466.35 +/- 5188.18
+   Zernike expansion, Z30,-16
+     Total Material
+       Kappa-Fission Rate                   -1507.87 +/- 5146.86
+   Zernike expansion, Z30,-14
+     Total Material
+       Kappa-Fission Rate                   -6481.93 +/- 5171.74
+   Zernike expansion, Z30,-12
+     Total Material
+       Kappa-Fission Rate                   -6134.67 +/- 5207.8
+   Zernike expansion, Z30,-10
+     Total Material
+       Kappa-Fission Rate                   552.568 +/- 4690.4
+   Zernike expansion, Z30,-8
+     Total Material
+       Kappa-Fission Rate                   -2700.39 +/- 4531.28
+   Zernike expansion, Z30,-6
+     Total Material
+       Kappa-Fission Rate                   -6501.27 +/- 4418.13
+   Zernike expansion, Z30,-4
+     Total Material
+       Kappa-Fission Rate                   -1038.13 +/- 4653.14
+   Zernike expansion, Z30,-2
+     Total Material
+       Kappa-Fission Rate                   -7921.46 +/- 4431.34
+   Zernike expansion, Z30,0
+     Total Material
+       Kappa-Fission Rate                   -182892 +/- 6693.73
+   Zernike expansion, Z30,2
+     Total Material
+       Kappa-Fission Rate                   3729.44 +/- 4443.88
+   Zernike expansion, Z30,4
+     Total Material
+       Kappa-Fission Rate                   -665.394 +/- 4678.33
+   Zernike expansion, Z30,6
+     Total Material
+       Kappa-Fission Rate                   827.786 +/- 4313.33
+   Zernike expansion, Z30,8
+     Total Material
+       Kappa-Fission Rate                   12981.6 +/- 4455.32
+   Zernike expansion, Z30,10
+     Total Material
+       Kappa-Fission Rate                   3782.23 +/- 5081.95
+   Zernike expansion, Z30,12
+     Total Material
+       Kappa-Fission Rate                   -4878.93 +/- 5357.97
+   Zernike expansion, Z30,14
+     Total Material
+       Kappa-Fission Rate                   -6126.12 +/- 5005.4
+   Zernike expansion, Z30,16
+     Total Material
+       Kappa-Fission Rate                   20275.7 +/- 5343.94
+   Zernike expansion, Z30,18
+     Total Material
+       Kappa-Fission Rate                   -7020.53 +/- 5428.04
+   Zernike expansion, Z30,20
+     Total Material
+       Kappa-Fission Rate                   -6477.57 +/- 5230.41
+   Zernike expansion, Z30,22
+     Total Material
+       Kappa-Fission Rate                   -11824.1 +/- 5387.47
+   Zernike expansion, Z30,24
+     Total Material
+       Kappa-Fission Rate                   25358.8 +/- 4901.51
+   Zernike expansion, Z30,26
+     Total Material
+       Kappa-Fission Rate                   7412.16 +/- 4751.73
+   Zernike expansion, Z30,28
+     Total Material
+       Kappa-Fission Rate                   5863.89 +/- 4503.07
+   Zernike expansion, Z30,30
+     Total Material
+       Kappa-Fission Rate                   -6949.98 +/- 4860.18
+   Zernike expansion, Z31,-31
+     Total Material
+       Kappa-Fission Rate                   -3443.87 +/- 4686.31
+   Zernike expansion, Z31,-29
+     Total Material
+       Kappa-Fission Rate                   -1794.27 +/- 4724.76
+   Zernike expansion, Z31,-27
+     Total Material
+       Kappa-Fission Rate                   -3077.96 +/- 5260.24
+   Zernike expansion, Z31,-25
+     Total Material
+       Kappa-Fission Rate                   2311.94 +/- 5049.82
+   Zernike expansion, Z31,-23
+     Total Material
+       Kappa-Fission Rate                   2493.57 +/- 5138.63
+   Zernike expansion, Z31,-21
+     Total Material
+       Kappa-Fission Rate                   -1729.4 +/- 5022.9
+   Zernike expansion, Z31,-19
+     Total Material
+       Kappa-Fission Rate                   1578.78 +/- 5214.91
+   Zernike expansion, Z31,-17
+     Total Material
+       Kappa-Fission Rate                   194.728 +/- 5137.95
+   Zernike expansion, Z31,-15
+     Total Material
+       Kappa-Fission Rate                   12021.6 +/- 4764.06
+   Zernike expansion, Z31,-13
+     Total Material
+       Kappa-Fission Rate                   -3718.82 +/- 4908.04
+   Zernike expansion, Z31,-11
+     Total Material
+       Kappa-Fission Rate                   -1454.17 +/- 4954.29
+   Zernike expansion, Z31,-9
+     Total Material
+       Kappa-Fission Rate                   2312.08 +/- 4973.01
+   Zernike expansion, Z31,-7
+     Total Material
+       Kappa-Fission Rate                   -383.405 +/- 4581.9
+   Zernike expansion, Z31,-5
+     Total Material
+       Kappa-Fission Rate                   3314.63 +/- 4278.54
+   Zernike expansion, Z31,-3
+     Total Material
+       Kappa-Fission Rate                   2001.43 +/- 4259.3
+   Zernike expansion, Z31,-1
+     Total Material
+       Kappa-Fission Rate                   10885.8 +/- 3881.82
+   Zernike expansion, Z31,1
+     Total Material
+       Kappa-Fission Rate                   -4534.72 +/- 4712.64
+   Zernike expansion, Z31,3
+     Total Material
+       Kappa-Fission Rate                   -1757.98 +/- 4333.02
+   Zernike expansion, Z31,5
+     Total Material
+       Kappa-Fission Rate                   473.495 +/- 4171.37
+   Zernike expansion, Z31,7
+     Total Material
+       Kappa-Fission Rate                   806.355 +/- 4430.74
+   Zernike expansion, Z31,9
+     Total Material
+       Kappa-Fission Rate                   -1343.71 +/- 4717.25
+   Zernike expansion, Z31,11
+     Total Material
+       Kappa-Fission Rate                   428.021 +/- 5228.18
+   Zernike expansion, Z31,13
+     Total Material
+       Kappa-Fission Rate                   7188.74 +/- 5355.9
+   Zernike expansion, Z31,15
+     Total Material
+       Kappa-Fission Rate                   10599.1 +/- 5119.92
+   Zernike expansion, Z31,17
+     Total Material
+       Kappa-Fission Rate                   5346.7 +/- 5278.42
+   Zernike expansion, Z31,19
+     Total Material
+       Kappa-Fission Rate                   1572.92 +/- 5209.38
+   Zernike expansion, Z31,21
+     Total Material
+       Kappa-Fission Rate                   8328.31 +/- 5457.16
+   Zernike expansion, Z31,23
+     Total Material
+       Kappa-Fission Rate                   9791.47 +/- 5300.27
+   Zernike expansion, Z31,25
+     Total Material
+       Kappa-Fission Rate                   -6445.14 +/- 4963.3
+   Zernike expansion, Z31,27
+     Total Material
+       Kappa-Fission Rate                   -7680.02 +/- 5134.76
+   Zernike expansion, Z31,29
+     Total Material
+       Kappa-Fission Rate                   -1140.16 +/- 4615.26
+   Zernike expansion, Z31,31
+     Total Material
+       Kappa-Fission Rate                   6015.43 +/- 5092.1
+   Zernike expansion, Z32,-32
+     Total Material
+       Kappa-Fission Rate                   -614.554 +/- 4704.59
+   Zernike expansion, Z32,-30
+     Total Material
+       Kappa-Fission Rate                   -5807.52 +/- 4763.21
+   Zernike expansion, Z32,-28
+     Total Material
+       Kappa-Fission Rate                   -2567.04 +/- 4736.34
+   Zernike expansion, Z32,-26
+     Total Material
+       Kappa-Fission Rate                   5814.58 +/- 5048.5
+   Zernike expansion, Z32,-24
+     Total Material
+       Kappa-Fission Rate                   -3798.53 +/- 4756.84
+   Zernike expansion, Z32,-22
+     Total Material
+       Kappa-Fission Rate                   2202.47 +/- 5388.15
+   Zernike expansion, Z32,-20
+     Total Material
+       Kappa-Fission Rate                   12670.3 +/- 5340.77
+   Zernike expansion, Z32,-18
+     Total Material
+       Kappa-Fission Rate                   7588.07 +/- 5120.17
+   Zernike expansion, Z32,-16
+     Total Material
+       Kappa-Fission Rate                   -5614.55 +/- 5232.82
+   Zernike expansion, Z32,-14
+     Total Material
+       Kappa-Fission Rate                   -5908.21 +/- 4877.45
+   Zernike expansion, Z32,-12
+     Total Material
+       Kappa-Fission Rate                   -4736.45 +/- 4868.89
+   Zernike expansion, Z32,-10
+     Total Material
+       Kappa-Fission Rate                   2046.45 +/- 4709.27
+   Zernike expansion, Z32,-8
+     Total Material
+       Kappa-Fission Rate                   -9769.55 +/- 4687.39
+   Zernike expansion, Z32,-6
+     Total Material
+       Kappa-Fission Rate                   -2475.16 +/- 4790.51
+   Zernike expansion, Z32,-4
+     Total Material
+       Kappa-Fission Rate                   1320.95 +/- 4717.63
+   Zernike expansion, Z32,-2
+     Total Material
+       Kappa-Fission Rate                   -2593.19 +/- 4402.75
+   Zernike expansion, Z32,0
+     Total Material
+       Kappa-Fission Rate                   -72976.3 +/- 5788.24
+   Zernike expansion, Z32,2
+     Total Material
+       Kappa-Fission Rate                   1310.65 +/- 4105.14
+   Zernike expansion, Z32,4
+     Total Material
+       Kappa-Fission Rate                   -2751.36 +/- 4223.81
+   Zernike expansion, Z32,6
+     Total Material
+       Kappa-Fission Rate                   4150.82 +/- 4637.72
+   Zernike expansion, Z32,8
+     Total Material
+       Kappa-Fission Rate                   -3878.61 +/- 4648.59
+   Zernike expansion, Z32,10
+     Total Material
+       Kappa-Fission Rate                   -9278.93 +/- 4841.33
+   Zernike expansion, Z32,12
+     Total Material
+       Kappa-Fission Rate                   -2020.2 +/- 5364.29
+   Zernike expansion, Z32,14
+     Total Material
+       Kappa-Fission Rate                   3836.18 +/- 5323.55
+   Zernike expansion, Z32,16
+     Total Material
+       Kappa-Fission Rate                   17174.3 +/- 5036.36
+   Zernike expansion, Z32,18
+     Total Material
+       Kappa-Fission Rate                   2067.61 +/- 5028.07
+   Zernike expansion, Z32,20
+     Total Material
+       Kappa-Fission Rate                   2036.52 +/- 4897.79
+   Zernike expansion, Z32,22
+     Total Material
+       Kappa-Fission Rate                   6186.54 +/- 5237.51
+   Zernike expansion, Z32,24
+     Total Material
+       Kappa-Fission Rate                   33459 +/- 5378.64
+   Zernike expansion, Z32,26
+     Total Material
+       Kappa-Fission Rate                   -126.059 +/- 5579.78
+   Zernike expansion, Z32,28
+     Total Material
+       Kappa-Fission Rate                   1590.31 +/- 4893.59
+   Zernike expansion, Z32,30
+     Total Material
+       Kappa-Fission Rate                   -5081.36 +/- 5004.4
+   Zernike expansion, Z32,32
+     Total Material
+       Kappa-Fission Rate                   -138852 +/- 4495.06
+   Zernike expansion, Z33,-33
+     Total Material
+       Kappa-Fission Rate                   -1480.62 +/- 4529.35
+   Zernike expansion, Z33,-31
+     Total Material
+       Kappa-Fission Rate                   -4657.68 +/- 4735.11
+   Zernike expansion, Z33,-29
+     Total Material
+       Kappa-Fission Rate                   -2245.35 +/- 4878.35
+   Zernike expansion, Z33,-27
+     Total Material
+       Kappa-Fission Rate                   -4975.6 +/- 4846.95
+   Zernike expansion, Z33,-25
+     Total Material
+       Kappa-Fission Rate                   -6700.22 +/- 5116.25
+   Zernike expansion, Z33,-23
+     Total Material
+       Kappa-Fission Rate                   2393.81 +/- 4975.6
+   Zernike expansion, Z33,-21
+     Total Material
+       Kappa-Fission Rate                   -6042.89 +/- 4566.27
+   Zernike expansion, Z33,-19
+     Total Material
+       Kappa-Fission Rate                   -6582.26 +/- 5032.87
+   Zernike expansion, Z33,-17
+     Total Material
+       Kappa-Fission Rate                   -2828.4 +/- 5097.56
+   Zernike expansion, Z33,-15
+     Total Material
+       Kappa-Fission Rate                   2186.13 +/- 5415.87
+   Zernike expansion, Z33,-13
+     Total Material
+       Kappa-Fission Rate                   993.293 +/- 4769.97
+   Zernike expansion, Z33,-11
+     Total Material
+       Kappa-Fission Rate                   -902.805 +/- 5003.31
+   Zernike expansion, Z33,-9
+     Total Material
+       Kappa-Fission Rate                   3629.27 +/- 4444.62
+   Zernike expansion, Z33,-7
+     Total Material
+       Kappa-Fission Rate                   -4236.82 +/- 4229
+   Zernike expansion, Z33,-5
+     Total Material
+       Kappa-Fission Rate                   -4514.19 +/- 4455.71
+   Zernike expansion, Z33,-3
+     Total Material
+       Kappa-Fission Rate                   12618.9 +/- 4653.49
+   Zernike expansion, Z33,-1
+     Total Material
+       Kappa-Fission Rate                   -1872.53 +/- 4178.54
+   Zernike expansion, Z33,1
+     Total Material
+       Kappa-Fission Rate                   -4726.63 +/- 4643.27
+   Zernike expansion, Z33,3
+     Total Material
+       Kappa-Fission Rate                   -4565.95 +/- 4134.98
+   Zernike expansion, Z33,5
+     Total Material
+       Kappa-Fission Rate                   -8402.12 +/- 4818.31
+   Zernike expansion, Z33,7
+     Total Material
+       Kappa-Fission Rate                   -4973.05 +/- 3927.4
+   Zernike expansion, Z33,9
+     Total Material
+       Kappa-Fission Rate                   6673.44 +/- 4418.48
+   Zernike expansion, Z33,11
+     Total Material
+       Kappa-Fission Rate                   -3963.31 +/- 4688.11
+   Zernike expansion, Z33,13
+     Total Material
+       Kappa-Fission Rate                   -6663.29 +/- 4984.43
+   Zernike expansion, Z33,15
+     Total Material
+       Kappa-Fission Rate                   -1325.72 +/- 4761.21
+   Zernike expansion, Z33,17
+     Total Material
+       Kappa-Fission Rate                   -3345.76 +/- 5516.29
+   Zernike expansion, Z33,19
+     Total Material
+       Kappa-Fission Rate                   4216.63 +/- 5159.84
+   Zernike expansion, Z33,21
+     Total Material
+       Kappa-Fission Rate                   -2975.78 +/- 4737.96
+   Zernike expansion, Z33,23
+     Total Material
+       Kappa-Fission Rate                   -3932 +/- 5027.42
+   Zernike expansion, Z33,25
+     Total Material
+       Kappa-Fission Rate                   6922.19 +/- 5260.69
+   Zernike expansion, Z33,27
+     Total Material
+       Kappa-Fission Rate                   2538.63 +/- 4902.84
+   Zernike expansion, Z33,29
+     Total Material
+       Kappa-Fission Rate                   3276.21 +/- 4756.91
+   Zernike expansion, Z33,31
+     Total Material
+       Kappa-Fission Rate                   -8640.79 +/- 4716.42
+   Zernike expansion, Z33,33
+     Total Material
+       Kappa-Fission Rate                   -3871.49 +/- 4428.38
+   Zernike expansion, Z34,-34
+     Total Material
+       Kappa-Fission Rate                   7371.86 +/- 4496.14
+   Zernike expansion, Z34,-32
+     Total Material
+       Kappa-Fission Rate                   3298 +/- 4891.54
+   Zernike expansion, Z34,-30
+     Total Material
+       Kappa-Fission Rate                   -2724.99 +/- 5133.19
+   Zernike expansion, Z34,-28
+     Total Material
+       Kappa-Fission Rate                   -152.076 +/- 5061.5
+   Zernike expansion, Z34,-26
+     Total Material
+       Kappa-Fission Rate                   -13089.2 +/- 4904.44
+   Zernike expansion, Z34,-24
+     Total Material
+       Kappa-Fission Rate                   -2020.43 +/- 4781.34
+   Zernike expansion, Z34,-22
+     Total Material
+       Kappa-Fission Rate                   3254.53 +/- 4939.95
+   Zernike expansion, Z34,-20
+     Total Material
+       Kappa-Fission Rate                   1203.26 +/- 4927.17
+   Zernike expansion, Z34,-18
+     Total Material
+       Kappa-Fission Rate                   2324.95 +/- 4956.07
+   Zernike expansion, Z34,-16
+     Total Material
+       Kappa-Fission Rate                   4157.34 +/- 4891.13
+   Zernike expansion, Z34,-14
+     Total Material
+       Kappa-Fission Rate                   585.608 +/- 5380.35
+   Zernike expansion, Z34,-12
+     Total Material
+       Kappa-Fission Rate                   5410.77 +/- 4890.07
+   Zernike expansion, Z34,-10
+     Total Material
+       Kappa-Fission Rate                   239.087 +/- 4218.96
+   Zernike expansion, Z34,-8
+     Total Material
+       Kappa-Fission Rate                   2720.23 +/- 4337.84
+   Zernike expansion, Z34,-6
+     Total Material
+       Kappa-Fission Rate                   -367.518 +/- 4353.4
+   Zernike expansion, Z34,-4
+     Total Material
+       Kappa-Fission Rate                   6149.04 +/- 4638.7
+   Zernike expansion, Z34,-2
+     Total Material
+       Kappa-Fission Rate                   7256.01 +/- 3853.78
+   Zernike expansion, Z34,0
+     Total Material
+       Kappa-Fission Rate                   251230 +/- 6210.31
+   Zernike expansion, Z34,2
+     Total Material
+       Kappa-Fission Rate                   4112.72 +/- 4269.75
+   Zernike expansion, Z34,4
+     Total Material
+       Kappa-Fission Rate                   -5794.05 +/- 4052.4
+   Zernike expansion, Z34,6
+     Total Material
+       Kappa-Fission Rate                   5031.62 +/- 4212.64
+   Zernike expansion, Z34,8
+     Total Material
+       Kappa-Fission Rate                   -2687.55 +/- 4422.13
+   Zernike expansion, Z34,10
+     Total Material
+       Kappa-Fission Rate                   -4595.63 +/- 4414.56
+   Zernike expansion, Z34,12
+     Total Material
+       Kappa-Fission Rate                   -202.897 +/- 4624.02
+   Zernike expansion, Z34,14
+     Total Material
+       Kappa-Fission Rate                   3976.04 +/- 5407.26
+   Zernike expansion, Z34,16
+     Total Material
+       Kappa-Fission Rate                   7333.24 +/- 4756.43
+   Zernike expansion, Z34,18
+     Total Material
+       Kappa-Fission Rate                   9808.89 +/- 4969.99
+   Zernike expansion, Z34,20
+     Total Material
+       Kappa-Fission Rate                   2114.48 +/- 4731.99
+   Zernike expansion, Z34,22
+     Total Material
+       Kappa-Fission Rate                   -1338.93 +/- 4909.87
+   Zernike expansion, Z34,24
+     Total Material
+       Kappa-Fission Rate                   29760.4 +/- 5056.01
+   Zernike expansion, Z34,26
+     Total Material
+       Kappa-Fission Rate                   -4584.51 +/- 5078.25
+   Zernike expansion, Z34,28
+     Total Material
+       Kappa-Fission Rate                   -10652.6 +/- 5505.41
+   Zernike expansion, Z34,30
+     Total Material
+       Kappa-Fission Rate                   2216.8 +/- 4807.11
+   Zernike expansion, Z34,32
+     Total Material
+       Kappa-Fission Rate                   -19043.8 +/- 5294.92
+   Zernike expansion, Z34,34
+     Total Material
+       Kappa-Fission Rate                   4898.91 +/- 4722.73
+   Zernike expansion, Z35,-35
+     Total Material
+       Kappa-Fission Rate                   -1429.12 +/- 4595.82
+   Zernike expansion, Z35,-33
+     Total Material
+       Kappa-Fission Rate                   7328.76 +/- 4984.53
+   Zernike expansion, Z35,-31
+     Total Material
+       Kappa-Fission Rate                   81.476 +/- 4892.02
+   Zernike expansion, Z35,-29
+     Total Material
+       Kappa-Fission Rate                   -624.062 +/- 4642.6
+   Zernike expansion, Z35,-27
+     Total Material
+       Kappa-Fission Rate                   -7642.32 +/- 4943.44
+   Zernike expansion, Z35,-25
+     Total Material
+       Kappa-Fission Rate                   -1901.83 +/- 4787.24
+   Zernike expansion, Z35,-23
+     Total Material
+       Kappa-Fission Rate                   -2501.36 +/- 5092.88
+   Zernike expansion, Z35,-21
+     Total Material
+       Kappa-Fission Rate                   327.297 +/- 5182.67
+   Zernike expansion, Z35,-19
+     Total Material
+       Kappa-Fission Rate                   -196.912 +/- 5170.17
+   Zernike expansion, Z35,-17
+     Total Material
+       Kappa-Fission Rate                   9217.77 +/- 4885.17
+   Zernike expansion, Z35,-15
+     Total Material
+       Kappa-Fission Rate                   -9498.17 +/- 4967.26
+   Zernike expansion, Z35,-13
+     Total Material
+       Kappa-Fission Rate                   -5848.36 +/- 4379.44
+   Zernike expansion, Z35,-11
+     Total Material
+       Kappa-Fission Rate                   4738.09 +/- 4503.82
+   Zernike expansion, Z35,-9
+     Total Material
+       Kappa-Fission Rate                   1818.12 +/- 4563.97
+   Zernike expansion, Z35,-7
+     Total Material
+       Kappa-Fission Rate                   -460.181 +/- 4309.11
+   Zernike expansion, Z35,-5
+     Total Material
+       Kappa-Fission Rate                   -760.812 +/- 3853.71
+   Zernike expansion, Z35,-3
+     Total Material
+       Kappa-Fission Rate                   1876.83 +/- 4114.05
+   Zernike expansion, Z35,-1
+     Total Material
+       Kappa-Fission Rate                   -14922.8 +/- 4182.86
+   Zernike expansion, Z35,1
+     Total Material
+       Kappa-Fission Rate                   95.1566 +/- 4177.27
+   Zernike expansion, Z35,3
+     Total Material
+       Kappa-Fission Rate                   4819.99 +/- 3954.73
+   Zernike expansion, Z35,5
+     Total Material
+       Kappa-Fission Rate                   -5445.66 +/- 3896.81
+   Zernike expansion, Z35,7
+     Total Material
+       Kappa-Fission Rate                   2350.53 +/- 4050.77
+   Zernike expansion, Z35,9
+     Total Material
+       Kappa-Fission Rate                   1521.63 +/- 4656.32
+   Zernike expansion, Z35,11
+     Total Material
+       Kappa-Fission Rate                   3801.96 +/- 4617.02
+   Zernike expansion, Z35,13
+     Total Material
+       Kappa-Fission Rate                   -2126.8 +/- 4778.25
+   Zernike expansion, Z35,15
+     Total Material
+       Kappa-Fission Rate                   4171.4 +/- 4824.93
+   Zernike expansion, Z35,17
+     Total Material
+       Kappa-Fission Rate                   4893.62 +/- 4894.29
+   Zernike expansion, Z35,19
+     Total Material
+       Kappa-Fission Rate                   -3078.6 +/- 4878.31
+   Zernike expansion, Z35,21
+     Total Material
+       Kappa-Fission Rate                   31.9759 +/- 5050.12
+   Zernike expansion, Z35,23
+     Total Material
+       Kappa-Fission Rate                   -3093.27 +/- 5337.5
+   Zernike expansion, Z35,25
+     Total Material
+       Kappa-Fission Rate                   -1422.41 +/- 5005.57
+   Zernike expansion, Z35,27
+     Total Material
+       Kappa-Fission Rate                   1855.58 +/- 4411.64
+   Zernike expansion, Z35,29
+     Total Material
+       Kappa-Fission Rate                   -6272.44 +/- 5284.13
+   Zernike expansion, Z35,31
+     Total Material
+       Kappa-Fission Rate                   -4708.65 +/- 4951.99
+   Zernike expansion, Z35,33
+     Total Material
+       Kappa-Fission Rate                   7772.49 +/- 4751.56
+   Zernike expansion, Z35,35
+     Total Material
+       Kappa-Fission Rate                   -823.961 +/- 4357.24
+   Zernike expansion, Z36,-36
+     Total Material
+       Kappa-Fission Rate                   -5169.69 +/- 4480.97
+   Zernike expansion, Z36,-34
+     Total Material
+       Kappa-Fission Rate                   -3929.53 +/- 4425.77
+   Zernike expansion, Z36,-32
+     Total Material
+       Kappa-Fission Rate                   -4179.22 +/- 4602.54
+   Zernike expansion, Z36,-30
+     Total Material
+       Kappa-Fission Rate                   -2340.1 +/- 4697.02
+   Zernike expansion, Z36,-28
+     Total Material
+       Kappa-Fission Rate                   4558.98 +/- 4790.01
+   Zernike expansion, Z36,-26
+     Total Material
+       Kappa-Fission Rate                   3070.48 +/- 4334.53
+   Zernike expansion, Z36,-24
+     Total Material
+       Kappa-Fission Rate                   -1788.16 +/- 5001.02
+   Zernike expansion, Z36,-22
+     Total Material
+       Kappa-Fission Rate                   -990.352 +/- 4793
+   Zernike expansion, Z36,-20
+     Total Material
+       Kappa-Fission Rate                   2284.29 +/- 4838.54
+   Zernike expansion, Z36,-18
+     Total Material
+       Kappa-Fission Rate                   10775.1 +/- 4949.51
+   Zernike expansion, Z36,-16
+     Total Material
+       Kappa-Fission Rate                   9249.82 +/- 4437.6
+   Zernike expansion, Z36,-14
+     Total Material
+       Kappa-Fission Rate                   -1405.53 +/- 4958.31
+   Zernike expansion, Z36,-12
+     Total Material
+       Kappa-Fission Rate                   -8624.62 +/- 4531.46
+   Zernike expansion, Z36,-10
+     Total Material
+       Kappa-Fission Rate                   -960.706 +/- 4393.87
+   Zernike expansion, Z36,-8
+     Total Material
+       Kappa-Fission Rate                   11011.6 +/- 3853.28
+   Zernike expansion, Z36,-6
+     Total Material
+       Kappa-Fission Rate                   -5831.75 +/- 4160.92
+   Zernike expansion, Z36,-4
+     Total Material
+       Kappa-Fission Rate                   3112.94 +/- 4235.26
+   Zernike expansion, Z36,-2
+     Total Material
+       Kappa-Fission Rate                   3115.1 +/- 4070.4
+   Zernike expansion, Z36,0
+     Total Material
+       Kappa-Fission Rate                   -249360 +/- 5909.7
+   Zernike expansion, Z36,2
+     Total Material
+       Kappa-Fission Rate                   -352.398 +/- 4265.49
+   Zernike expansion, Z36,4
+     Total Material
+       Kappa-Fission Rate                   -5439.32 +/- 3934.32
+   Zernike expansion, Z36,6
+     Total Material
+       Kappa-Fission Rate                   4121.22 +/- 4223.98
+   Zernike expansion, Z36,8
+     Total Material
+       Kappa-Fission Rate                   -16848.3 +/- 4060.14
+   Zernike expansion, Z36,10
+     Total Material
+       Kappa-Fission Rate                   716.407 +/- 4178.77
+   Zernike expansion, Z36,12
+     Total Material
+       Kappa-Fission Rate                   -1972.98 +/- 4553.17
+   Zernike expansion, Z36,14
+     Total Material
+       Kappa-Fission Rate                   -2920.54 +/- 4325.35
+   Zernike expansion, Z36,16
+     Total Material
+       Kappa-Fission Rate                   3804.6 +/- 4671.63
+   Zernike expansion, Z36,18
+     Total Material
+       Kappa-Fission Rate                   1786.85 +/- 5126.96
+   Zernike expansion, Z36,20
+     Total Material
+       Kappa-Fission Rate                   162.895 +/- 4793.57
+   Zernike expansion, Z36,22
+     Total Material
+       Kappa-Fission Rate                   -385.312 +/- 5039.33
+   Zernike expansion, Z36,24
+     Total Material
+       Kappa-Fission Rate                   22591.7 +/- 4566.11
+   Zernike expansion, Z36,26
+     Total Material
+       Kappa-Fission Rate                   4279.56 +/- 4766.38
+   Zernike expansion, Z36,28
+     Total Material
+       Kappa-Fission Rate                   -11223.1 +/- 4545.99
+   Zernike expansion, Z36,30
+     Total Material
+       Kappa-Fission Rate                   5199.41 +/- 4545.53
+   Zernike expansion, Z36,32
+     Total Material
+       Kappa-Fission Rate                   24280 +/- 4892.83
+   Zernike expansion, Z36,34
+     Total Material
+       Kappa-Fission Rate                   -2850.87 +/- 4919.39
+   Zernike expansion, Z36,36
+     Total Material
+       Kappa-Fission Rate                   -1998.73 +/- 4273.35
+   Zernike expansion, Z37,-37
+     Total Material
+       Kappa-Fission Rate                   1110.43 +/- 4176.61
+   Zernike expansion, Z37,-35
+     Total Material
+       Kappa-Fission Rate                   2142.74 +/- 4756.19
+   Zernike expansion, Z37,-33
+     Total Material
+       Kappa-Fission Rate                   -269.19 +/- 4925.22
+   Zernike expansion, Z37,-31
+     Total Material
+       Kappa-Fission Rate                   -1377.25 +/- 4708.36
+   Zernike expansion, Z37,-29
+     Total Material
+       Kappa-Fission Rate                   -2721.04 +/- 4547.5
+   Zernike expansion, Z37,-27
+     Total Material
+       Kappa-Fission Rate                   1534.63 +/- 4825.43
+   Zernike expansion, Z37,-25
+     Total Material
+       Kappa-Fission Rate                   -7763.24 +/- 4883.17
+   Zernike expansion, Z37,-23
+     Total Material
+       Kappa-Fission Rate                   6518.03 +/- 4766.85
+   Zernike expansion, Z37,-21
+     Total Material
+       Kappa-Fission Rate                   -9283.98 +/- 4908.76
+   Zernike expansion, Z37,-19
+     Total Material
+       Kappa-Fission Rate                   -158.449 +/- 4975.47
+   Zernike expansion, Z37,-17
+     Total Material
+       Kappa-Fission Rate                   -6216.03 +/- 4929.09
+   Zernike expansion, Z37,-15
+     Total Material
+       Kappa-Fission Rate                   4874.5 +/- 4908.53
+   Zernike expansion, Z37,-13
+     Total Material
+       Kappa-Fission Rate                   -3638.14 +/- 4560.91
+   Zernike expansion, Z37,-11
+     Total Material
+       Kappa-Fission Rate                   -870.675 +/- 4201.93
+   Zernike expansion, Z37,-9
+     Total Material
+       Kappa-Fission Rate                   -370.715 +/- 4363.75
+   Zernike expansion, Z37,-7
+     Total Material
+       Kappa-Fission Rate                   1096.66 +/- 4402.17
+   Zernike expansion, Z37,-5
+     Total Material
+       Kappa-Fission Rate                   -1314.43 +/- 3767.72
+   Zernike expansion, Z37,-3
+     Total Material
+       Kappa-Fission Rate                   -4745.63 +/- 3912.95
+   Zernike expansion, Z37,-1
+     Total Material
+       Kappa-Fission Rate                   -3249.82 +/- 3960.45
+   Zernike expansion, Z37,1
+     Total Material
+       Kappa-Fission Rate                   -1518.43 +/- 4003.38
+   Zernike expansion, Z37,3
+     Total Material
+       Kappa-Fission Rate                   -1940.98 +/- 3961.71
+   Zernike expansion, Z37,5
+     Total Material
+       Kappa-Fission Rate                   574.191 +/- 4343.33
+   Zernike expansion, Z37,7
+     Total Material
+       Kappa-Fission Rate                   3235 +/- 4075.05
+   Zernike expansion, Z37,9
+     Total Material
+       Kappa-Fission Rate                   -1230.33 +/- 3921.96
+   Zernike expansion, Z37,11
+     Total Material
+       Kappa-Fission Rate                   3741.67 +/- 4093.64
+   Zernike expansion, Z37,13
+     Total Material
+       Kappa-Fission Rate                   5522.68 +/- 4521.69
+   Zernike expansion, Z37,15
+     Total Material
+       Kappa-Fission Rate                   1221.97 +/- 4691.33
+   Zernike expansion, Z37,17
+     Total Material
+       Kappa-Fission Rate                   3517.5 +/- 4459.39
+   Zernike expansion, Z37,19
+     Total Material
+       Kappa-Fission Rate                   2196.91 +/- 4589.42
+   Zernike expansion, Z37,21
+     Total Material
+       Kappa-Fission Rate                   45.7035 +/- 5118.02
+   Zernike expansion, Z37,23
+     Total Material
+       Kappa-Fission Rate                   4457.61 +/- 4754.71
+   Zernike expansion, Z37,25
+     Total Material
+       Kappa-Fission Rate                   2844.47 +/- 4946.66
+   Zernike expansion, Z37,27
+     Total Material
+       Kappa-Fission Rate                   3435.82 +/- 4593.91
+   Zernike expansion, Z37,29
+     Total Material
+       Kappa-Fission Rate                   1203.86 +/- 4425.04
+   Zernike expansion, Z37,31
+     Total Material
+       Kappa-Fission Rate                   4497.07 +/- 4617.87
+   Zernike expansion, Z37,33
+     Total Material
+       Kappa-Fission Rate                   -406.544 +/- 4462.6
+   Zernike expansion, Z37,35
+     Total Material
+       Kappa-Fission Rate                   5275.84 +/- 4157.42
+   Zernike expansion, Z37,37
+     Total Material
+       Kappa-Fission Rate                   5719.8 +/- 4009.13
+   Zernike expansion, Z38,-38
+     Total Material
+       Kappa-Fission Rate                   3087.3 +/- 4394.2
+   Zernike expansion, Z38,-36
+     Total Material
+       Kappa-Fission Rate                   432.294 +/- 4486.09
+   Zernike expansion, Z38,-34
+     Total Material
+       Kappa-Fission Rate                   -933.862 +/- 4780.2
+   Zernike expansion, Z38,-32
+     Total Material
+       Kappa-Fission Rate                   -10067 +/- 4554.86
+   Zernike expansion, Z38,-30
+     Total Material
+       Kappa-Fission Rate                   -1658.71 +/- 4669.33
+   Zernike expansion, Z38,-28
+     Total Material
+       Kappa-Fission Rate                   5909.19 +/- 4742.01
+   Zernike expansion, Z38,-26
+     Total Material
+       Kappa-Fission Rate                   -2363.06 +/- 4494.91
+   Zernike expansion, Z38,-24
+     Total Material
+       Kappa-Fission Rate                   2835.02 +/- 4658
+   Zernike expansion, Z38,-22
+     Total Material
+       Kappa-Fission Rate                   5865.77 +/- 4714.66
+   Zernike expansion, Z38,-20
+     Total Material
+       Kappa-Fission Rate                   -6246.71 +/- 4519.95
+   Zernike expansion, Z38,-18
+     Total Material
+       Kappa-Fission Rate                   135.125 +/- 4934.25
+   Zernike expansion, Z38,-16
+     Total Material
+       Kappa-Fission Rate                   -5979.55 +/- 4934.21
+   Zernike expansion, Z38,-14
+     Total Material
+       Kappa-Fission Rate                   383.461 +/- 4880.24
+   Zernike expansion, Z38,-12
+     Total Material
+       Kappa-Fission Rate                   -7111.64 +/- 4335.38
+   Zernike expansion, Z38,-10
+     Total Material
+       Kappa-Fission Rate                   1761.43 +/- 4366.76
+   Zernike expansion, Z38,-8
+     Total Material
+       Kappa-Fission Rate                   -786.675 +/- 4373.15
+   Zernike expansion, Z38,-6
+     Total Material
+       Kappa-Fission Rate                   3083.84 +/- 3838.74
+   Zernike expansion, Z38,-4
+     Total Material
+       Kappa-Fission Rate                   1365.44 +/- 4451.33
+   Zernike expansion, Z38,-2
+     Total Material
+       Kappa-Fission Rate                   -1252.01 +/- 4091.4
+   Zernike expansion, Z38,0
+     Total Material
+       Kappa-Fission Rate                   100501 +/- 5940.71
+   Zernike expansion, Z38,2
+     Total Material
+       Kappa-Fission Rate                   -3148.7 +/- 4288.78
+   Zernike expansion, Z38,4
+     Total Material
+       Kappa-Fission Rate                   2241.98 +/- 3859.29
+   Zernike expansion, Z38,6
+     Total Material
+       Kappa-Fission Rate                   4435.61 +/- 3789.75
+   Zernike expansion, Z38,8
+     Total Material
+       Kappa-Fission Rate                   -19739.2 +/- 4143.99
+   Zernike expansion, Z38,10
+     Total Material
+       Kappa-Fission Rate                   -87.0617 +/- 4435.15
+   Zernike expansion, Z38,12
+     Total Material
+       Kappa-Fission Rate                   5220.33 +/- 3977.06
+   Zernike expansion, Z38,14
+     Total Material
+       Kappa-Fission Rate                   -10059 +/- 4409.65
+   Zernike expansion, Z38,16
+     Total Material
+       Kappa-Fission Rate                   -8908.31 +/- 4469.93
+   Zernike expansion, Z38,18
+     Total Material
+       Kappa-Fission Rate                   -2519.49 +/- 4688.49
+   Zernike expansion, Z38,20
+     Total Material
+       Kappa-Fission Rate                   -774.652 +/- 4284.49
+   Zernike expansion, Z38,22
+     Total Material
+       Kappa-Fission Rate                   -2604.17 +/- 4770.28
+   Zernike expansion, Z38,24
+     Total Material
+       Kappa-Fission Rate                   10535.2 +/- 4638.92
+   Zernike expansion, Z38,26
+     Total Material
+       Kappa-Fission Rate                   -5498.59 +/- 4698.02
+   Zernike expansion, Z38,28
+     Total Material
+       Kappa-Fission Rate                   -3899.04 +/- 4402.55
+   Zernike expansion, Z38,30
+     Total Material
+       Kappa-Fission Rate                   -4639.06 +/- 4781.61
+   Zernike expansion, Z38,32
+     Total Material
+       Kappa-Fission Rate                   40465.1 +/- 4426.34
+   Zernike expansion, Z38,34
+     Total Material
+       Kappa-Fission Rate                   -1085.27 +/- 4488.83
+   Zernike expansion, Z38,36
+     Total Material
+       Kappa-Fission Rate                   7580.59 +/- 4663.89
+   Zernike expansion, Z38,38
+     Total Material
+       Kappa-Fission Rate                   417.301 +/- 4154.82
+   Zernike expansion, Z39,-39
+     Total Material
+       Kappa-Fission Rate                   -2428.54 +/- 4441.34
+   Zernike expansion, Z39,-37
+     Total Material
+       Kappa-Fission Rate                   6234.06 +/- 4879.47
+   Zernike expansion, Z39,-35
+     Total Material
+       Kappa-Fission Rate                   3494.45 +/- 4330.88
+   Zernike expansion, Z39,-33
+     Total Material
+       Kappa-Fission Rate                   327.9 +/- 4668.95
+   Zernike expansion, Z39,-31
+     Total Material
+       Kappa-Fission Rate                   1043.5 +/- 4497.55
+   Zernike expansion, Z39,-29
+     Total Material
+       Kappa-Fission Rate                   -2032.55 +/- 4439.8
+   Zernike expansion, Z39,-27
+     Total Material
+       Kappa-Fission Rate                   14723.4 +/- 4704.77
+   Zernike expansion, Z39,-25
+     Total Material
+       Kappa-Fission Rate                   8436.48 +/- 4736.5
+   Zernike expansion, Z39,-23
+     Total Material
+       Kappa-Fission Rate                   -4651.12 +/- 4948.36
+   Zernike expansion, Z39,-21
+     Total Material
+       Kappa-Fission Rate                   6925.96 +/- 4818.02
+   Zernike expansion, Z39,-19
+     Total Material
+       Kappa-Fission Rate                   -4564.26 +/- 4511.61
+   Zernike expansion, Z39,-17
+     Total Material
+       Kappa-Fission Rate                   3470.09 +/- 4355.46
+   Zernike expansion, Z39,-15
+     Total Material
+       Kappa-Fission Rate                   -537.8 +/- 4167.85
+   Zernike expansion, Z39,-13
+     Total Material
+       Kappa-Fission Rate                   9212.41 +/- 4435.39
+   Zernike expansion, Z39,-11
+     Total Material
+       Kappa-Fission Rate                   5930.87 +/- 4277.25
+   Zernike expansion, Z39,-9
+     Total Material
+       Kappa-Fission Rate                   -3254.08 +/- 3900.01
+   Zernike expansion, Z39,-7
+     Total Material
+       Kappa-Fission Rate                   -1604.73 +/- 3961.13
+   Zernike expansion, Z39,-5
+     Total Material
+       Kappa-Fission Rate                   -2635.15 +/- 3870.01
+   Zernike expansion, Z39,-3
+     Total Material
+       Kappa-Fission Rate                   -1781.46 +/- 3654.58
+   Zernike expansion, Z39,-1
+     Total Material
+       Kappa-Fission Rate                   4316.59 +/- 3874.55
+   Zernike expansion, Z39,1
+     Total Material
+       Kappa-Fission Rate                   -3185.8 +/- 3711.48
+   Zernike expansion, Z39,3
+     Total Material
+       Kappa-Fission Rate                   -6555.47 +/- 4058.68
+   Zernike expansion, Z39,5
+     Total Material
+       Kappa-Fission Rate                   1656.5 +/- 3818.32
+   Zernike expansion, Z39,7
+     Total Material
+       Kappa-Fission Rate                   -6548.21 +/- 4226.52
+   Zernike expansion, Z39,9
+     Total Material
+       Kappa-Fission Rate                   3950.75 +/- 4061.17
+   Zernike expansion, Z39,11
+     Total Material
+       Kappa-Fission Rate                   -3991.84 +/- 4116.39
+   Zernike expansion, Z39,13
+     Total Material
+       Kappa-Fission Rate                   -904.844 +/- 4353.62
+   Zernike expansion, Z39,15
+     Total Material
+       Kappa-Fission Rate                   4644.46 +/- 4407.56
+   Zernike expansion, Z39,17
+     Total Material
+       Kappa-Fission Rate                   3395.09 +/- 4723.24
+   Zernike expansion, Z39,19
+     Total Material
+       Kappa-Fission Rate                   2659.73 +/- 4473.71
+   Zernike expansion, Z39,21
+     Total Material
+       Kappa-Fission Rate                   -2079.52 +/- 4291.99
+   Zernike expansion, Z39,23
+     Total Material
+       Kappa-Fission Rate                   4303.69 +/- 4685.43
+   Zernike expansion, Z39,25
+     Total Material
+       Kappa-Fission Rate                   -905.257 +/- 4647.13
+   Zernike expansion, Z39,27
+     Total Material
+       Kappa-Fission Rate                   -3620.3 +/- 4909.88
+   Zernike expansion, Z39,29
+     Total Material
+       Kappa-Fission Rate                   1325.42 +/- 4517.46
+   Zernike expansion, Z39,31
+     Total Material
+       Kappa-Fission Rate                   -3793.76 +/- 4472.28
+   Zernike expansion, Z39,33
+     Total Material
+       Kappa-Fission Rate                   2238.05 +/- 4548.51
+   Zernike expansion, Z39,35
+     Total Material
+       Kappa-Fission Rate                   12293.6 +/- 4111.04
+   Zernike expansion, Z39,37
+     Total Material
+       Kappa-Fission Rate                   -2509.96 +/- 4300.68
+   Zernike expansion, Z39,39
+     Total Material
+       Kappa-Fission Rate                   5242.23 +/- 4309.88
+   Zernike expansion, Z40,-40
+     Total Material
+       Kappa-Fission Rate                   -3598.18 +/- 3919.68
+   Zernike expansion, Z40,-38
+     Total Material
+       Kappa-Fission Rate                   -4526.88 +/- 4801.05
+   Zernike expansion, Z40,-36
+     Total Material
+       Kappa-Fission Rate                   4196.97 +/- 4638.85
+   Zernike expansion, Z40,-34
+     Total Material
+       Kappa-Fission Rate                   -194.688 +/- 4899.52
+   Zernike expansion, Z40,-32
+     Total Material
+       Kappa-Fission Rate                   -1833.64 +/- 4259.26
+   Zernike expansion, Z40,-30
+     Total Material
+       Kappa-Fission Rate                   -7182.24 +/- 4462.34
+   Zernike expansion, Z40,-28
+     Total Material
+       Kappa-Fission Rate                   3410.5 +/- 4690.25
+   Zernike expansion, Z40,-26
+     Total Material
+       Kappa-Fission Rate                   -2128.07 +/- 4675.77
+   Zernike expansion, Z40,-24
+     Total Material
+       Kappa-Fission Rate                   -2156.43 +/- 4317.35
+   Zernike expansion, Z40,-22
+     Total Material
+       Kappa-Fission Rate                   -2494.93 +/- 4244.76
+   Zernike expansion, Z40,-20
+     Total Material
+       Kappa-Fission Rate                   -3396.22 +/- 4323.82
+   Zernike expansion, Z40,-18
+     Total Material
+       Kappa-Fission Rate                   -11848.4 +/- 4336.12
+   Zernike expansion, Z40,-16
+     Total Material
+       Kappa-Fission Rate                   2207.51 +/- 4287.4
+   Zernike expansion, Z40,-14
+     Total Material
+       Kappa-Fission Rate                   2013.46 +/- 4088.2
+   Zernike expansion, Z40,-12
+     Total Material
+       Kappa-Fission Rate                   -692.565 +/- 4084.45
+   Zernike expansion, Z40,-10
+     Total Material
+       Kappa-Fission Rate                   215.695 +/- 3878.17
+   Zernike expansion, Z40,-8
+     Total Material
+       Kappa-Fission Rate                   -4026.12 +/- 3652.19
+   Zernike expansion, Z40,-6
+     Total Material
+       Kappa-Fission Rate                   1563.67 +/- 4213.1
+   Zernike expansion, Z40,-4
+     Total Material
+       Kappa-Fission Rate                   -2708.46 +/- 3839.68
+   Zernike expansion, Z40,-2
+     Total Material
+       Kappa-Fission Rate                   -1665.8 +/- 3660.68
+   Zernike expansion, Z40,0
+     Total Material
+       Kappa-Fission Rate                   75875.8 +/- 5429.2
+   Zernike expansion, Z40,2
+     Total Material
+       Kappa-Fission Rate                   1600.7 +/- 3672.09
+   Zernike expansion, Z40,4
+     Total Material
+       Kappa-Fission Rate                   -4179.98 +/- 3851.13
+   Zernike expansion, Z40,6
+     Total Material
+       Kappa-Fission Rate                   7063.59 +/- 3593.23
+   Zernike expansion, Z40,8
+     Total Material
+       Kappa-Fission Rate                   -6368.83 +/- 3791.58
+   Zernike expansion, Z40,10
+     Total Material
+       Kappa-Fission Rate                   -2848.03 +/- 3893.11
+   Zernike expansion, Z40,12
+     Total Material
+       Kappa-Fission Rate                   1583.69 +/- 4312.47
+   Zernike expansion, Z40,14
+     Total Material
+       Kappa-Fission Rate                   -3749.99 +/- 4357.19
+   Zernike expansion, Z40,16
+     Total Material
+       Kappa-Fission Rate                   -19104 +/- 4904.54
+   Zernike expansion, Z40,18
+     Total Material
+       Kappa-Fission Rate                   -1112.41 +/- 5110.67
+   Zernike expansion, Z40,20
+     Total Material
+       Kappa-Fission Rate                   2619.07 +/- 4171.7
+   Zernike expansion, Z40,22
+     Total Material
+       Kappa-Fission Rate                   1808.25 +/- 4769.12
+   Zernike expansion, Z40,24
+     Total Material
+       Kappa-Fission Rate                   -7974.58 +/- 4678.88
+   Zernike expansion, Z40,26
+     Total Material
+       Kappa-Fission Rate                   -1220.5 +/- 4671.78
+   Zernike expansion, Z40,28
+     Total Material
+       Kappa-Fission Rate                   5904.81 +/- 4758.78
+   Zernike expansion, Z40,30
+     Total Material
+       Kappa-Fission Rate                   -1814.4 +/- 4204.36
+   Zernike expansion, Z40,32
+     Total Material
+       Kappa-Fission Rate                   28516.8 +/- 4658.39
+   Zernike expansion, Z40,34
+     Total Material
+       Kappa-Fission Rate                   593.124 +/- 5044.83
+   Zernike expansion, Z40,36
+     Total Material
+       Kappa-Fission Rate                   -9873.52 +/- 4618.18
+   Zernike expansion, Z40,38
+     Total Material
+       Kappa-Fission Rate                   2588.57 +/- 3927.36
+   Zernike expansion, Z40,40
+     Total Material
+       Kappa-Fission Rate                   -69328.4 +/- 4114.78
+   Zernike expansion, Z41,-41
+     Total Material
+       Kappa-Fission Rate                   64.2199 +/- 4098.63
+   Zernike expansion, Z41,-39
+     Total Material
+       Kappa-Fission Rate                   4822.84 +/- 4638.99
+   Zernike expansion, Z41,-37
+     Total Material
+       Kappa-Fission Rate                   1181.23 +/- 4172.63
+   Zernike expansion, Z41,-35
+     Total Material
+       Kappa-Fission Rate                   2668.65 +/- 4509.11
+   Zernike expansion, Z41,-33
+     Total Material
+       Kappa-Fission Rate                   -848.969 +/- 4503.49
+   Zernike expansion, Z41,-31
+     Total Material
+       Kappa-Fission Rate                   839.48 +/- 4314.08
+   Zernike expansion, Z41,-29
+     Total Material
+       Kappa-Fission Rate                   -1860.43 +/- 4563.13
+   Zernike expansion, Z41,-27
+     Total Material
+       Kappa-Fission Rate                   7965.09 +/- 4259.18
+   Zernike expansion, Z41,-25
+     Total Material
+       Kappa-Fission Rate                   -3534.34 +/- 4637.1
+   Zernike expansion, Z41,-23
+     Total Material
+       Kappa-Fission Rate                   -6296.48 +/- 4388.68
+   Zernike expansion, Z41,-21
+     Total Material
+       Kappa-Fission Rate                   -159.929 +/- 4633.89
+   Zernike expansion, Z41,-19
+     Total Material
+       Kappa-Fission Rate                   -1924.52 +/- 4553.01
+   Zernike expansion, Z41,-17
+     Total Material
+       Kappa-Fission Rate                   -4433.85 +/- 4288.68
+   Zernike expansion, Z41,-15
+     Total Material
+       Kappa-Fission Rate                   -4873.53 +/- 4011.57
+   Zernike expansion, Z41,-13
+     Total Material
+       Kappa-Fission Rate                   5139.46 +/- 4046.12
+   Zernike expansion, Z41,-11
+     Total Material
+       Kappa-Fission Rate                   13813.5 +/- 4123.86
+   Zernike expansion, Z41,-9
+     Total Material
+       Kappa-Fission Rate                   -1246.37 +/- 4259.6
+   Zernike expansion, Z41,-7
+     Total Material
+       Kappa-Fission Rate                   -4992.67 +/- 4011.73
+   Zernike expansion, Z41,-5
+     Total Material
+       Kappa-Fission Rate                   3384.23 +/- 3933.34
+   Zernike expansion, Z41,-3
+     Total Material
+       Kappa-Fission Rate                   -982.008 +/- 3601.02
+   Zernike expansion, Z41,-1
+     Total Material
+       Kappa-Fission Rate                   -116.765 +/- 3633.81
+   Zernike expansion, Z41,1
+     Total Material
+       Kappa-Fission Rate                   -1829.59 +/- 4308.48
+   Zernike expansion, Z41,3
+     Total Material
+       Kappa-Fission Rate                   4191.22 +/- 3766.83
+   Zernike expansion, Z41,5
+     Total Material
+       Kappa-Fission Rate                   6682.8 +/- 3995.21
+   Zernike expansion, Z41,7
+     Total Material
+       Kappa-Fission Rate                   -4059.31 +/- 4059.79
+   Zernike expansion, Z41,9
+     Total Material
+       Kappa-Fission Rate                   3565.44 +/- 3762.43
+   Zernike expansion, Z41,11
+     Total Material
+       Kappa-Fission Rate                   -3845.8 +/- 4219.81
+   Zernike expansion, Z41,13
+     Total Material
+       Kappa-Fission Rate                   1575.05 +/- 3964.67
+   Zernike expansion, Z41,15
+     Total Material
+       Kappa-Fission Rate                   -3082.37 +/- 4385.44
+   Zernike expansion, Z41,17
+     Total Material
+       Kappa-Fission Rate                   -5362.66 +/- 4182.43
+   Zernike expansion, Z41,19
+     Total Material
+       Kappa-Fission Rate                   -1913.56 +/- 4522.41
+   Zernike expansion, Z41,21
+     Total Material
+       Kappa-Fission Rate                   784.008 +/- 4606.7
+   Zernike expansion, Z41,23
+     Total Material
+       Kappa-Fission Rate                   2713.36 +/- 4359.43
+   Zernike expansion, Z41,25
+     Total Material
+       Kappa-Fission Rate                   4262.22 +/- 4141.45
+   Zernike expansion, Z41,27
+     Total Material
+       Kappa-Fission Rate                   -3599.34 +/- 4231.38
+   Zernike expansion, Z41,29
+     Total Material
+       Kappa-Fission Rate                   -2475.25 +/- 4430.1
+   Zernike expansion, Z41,31
+     Total Material
+       Kappa-Fission Rate                   5234.95 +/- 4384.75
+   Zernike expansion, Z41,33
+     Total Material
+       Kappa-Fission Rate                   -165.212 +/- 4925.95
+   Zernike expansion, Z41,35
+     Total Material
+       Kappa-Fission Rate                   963.13 +/- 4430.72
+   Zernike expansion, Z41,37
+     Total Material
+       Kappa-Fission Rate                   -4484.42 +/- 4390.08
+   Zernike expansion, Z41,39
+     Total Material
+       Kappa-Fission Rate                   -10081.5 +/- 4130.88
+   Zernike expansion, Z41,41
+     Total Material
+       Kappa-Fission Rate                   -3707.44 +/- 3898.98
+   Zernike expansion, Z42,-42
+     Total Material
+       Kappa-Fission Rate                   -4997.69 +/- 4069.77
+   Zernike expansion, Z42,-40
+     Total Material
+       Kappa-Fission Rate                   -401.594 +/- 4644.07
+   Zernike expansion, Z42,-38
+     Total Material
+       Kappa-Fission Rate                   3974.09 +/- 4249.51
+   Zernike expansion, Z42,-36
+     Total Material
+       Kappa-Fission Rate                   -632.586 +/- 4581.25
+   Zernike expansion, Z42,-34
+     Total Material
+       Kappa-Fission Rate                   2377.13 +/- 4484.94
+   Zernike expansion, Z42,-32
+     Total Material
+       Kappa-Fission Rate                   -4812.56 +/- 4345.98
+   Zernike expansion, Z42,-30
+     Total Material
+       Kappa-Fission Rate                   6227.91 +/- 4322.99
+   Zernike expansion, Z42,-28
+     Total Material
+       Kappa-Fission Rate                   -1637.27 +/- 4335.61
+   Zernike expansion, Z42,-26
+     Total Material
+       Kappa-Fission Rate                   -5686.13 +/- 4458.07
+   Zernike expansion, Z42,-24
+     Total Material
+       Kappa-Fission Rate                   -4662.69 +/- 4426.39
+   Zernike expansion, Z42,-22
+     Total Material
+       Kappa-Fission Rate                   -5717.97 +/- 4427.12
+   Zernike expansion, Z42,-20
+     Total Material
+       Kappa-Fission Rate                   2013.63 +/- 4771.67
+   Zernike expansion, Z42,-18
+     Total Material
+       Kappa-Fission Rate                   4337.52 +/- 4595.34
+   Zernike expansion, Z42,-16
+     Total Material
+       Kappa-Fission Rate                   -7792.3 +/- 4274.09
+   Zernike expansion, Z42,-14
+     Total Material
+       Kappa-Fission Rate                   -4305.25 +/- 3927.01
+   Zernike expansion, Z42,-12
+     Total Material
+       Kappa-Fission Rate                   10.3048 +/- 4068.47
+   Zernike expansion, Z42,-10
+     Total Material
+       Kappa-Fission Rate                   -8755.65 +/- 4171.33
+   Zernike expansion, Z42,-8
+     Total Material
+       Kappa-Fission Rate                   2803.86 +/- 3588.31
+   Zernike expansion, Z42,-6
+     Total Material
+       Kappa-Fission Rate                   -5304.17 +/- 3699.48
+   Zernike expansion, Z42,-4
+     Total Material
+       Kappa-Fission Rate                   -10678.6 +/- 3957.38
+   Zernike expansion, Z42,-2
+     Total Material
+       Kappa-Fission Rate                   2374.06 +/- 3645.53
+   Zernike expansion, Z42,0
+     Total Material
+       Kappa-Fission Rate                   -204585 +/- 6056.84
+   Zernike expansion, Z42,2
+     Total Material
+       Kappa-Fission Rate                   -2121.75 +/- 3639.65
+   Zernike expansion, Z42,4
+     Total Material
+       Kappa-Fission Rate                   -8721.7 +/- 4052.81
+   Zernike expansion, Z42,6
+     Total Material
+       Kappa-Fission Rate                   1921.24 +/- 4015.19
+   Zernike expansion, Z42,8
+     Total Material
+       Kappa-Fission Rate                   -11743.3 +/- 3777.52
+   Zernike expansion, Z42,10
+     Total Material
+       Kappa-Fission Rate                   -3970.61 +/- 3474.09
+   Zernike expansion, Z42,12
+     Total Material
+       Kappa-Fission Rate                   -1245.59 +/- 3808.96
+   Zernike expansion, Z42,14
+     Total Material
+       Kappa-Fission Rate                   3019.14 +/- 3930.22
+   Zernike expansion, Z42,16
+     Total Material
+       Kappa-Fission Rate                   -18713.1 +/- 4170.89
+   Zernike expansion, Z42,18
+     Total Material
+       Kappa-Fission Rate                   -4919.75 +/- 4380.14
+   Zernike expansion, Z42,20
+     Total Material
+       Kappa-Fission Rate                   5614.63 +/- 4495.73
+   Zernike expansion, Z42,22
+     Total Material
+       Kappa-Fission Rate                   -856.086 +/- 5017.83
+   Zernike expansion, Z42,24
+     Total Material
+       Kappa-Fission Rate                   -8871.21 +/- 4299.41
+   Zernike expansion, Z42,26
+     Total Material
+       Kappa-Fission Rate                   -3765.65 +/- 4317.68
+   Zernike expansion, Z42,28
+     Total Material
+       Kappa-Fission Rate                   2460.17 +/- 4580.06
+   Zernike expansion, Z42,30
+     Total Material
+       Kappa-Fission Rate                   2707.34 +/- 4730.1
+   Zernike expansion, Z42,32
+     Total Material
+       Kappa-Fission Rate                   6704.16 +/- 4078.71
+   Zernike expansion, Z42,34
+     Total Material
+       Kappa-Fission Rate                   -7352.9 +/- 4087.4
+   Zernike expansion, Z42,36
+     Total Material
+       Kappa-Fission Rate                   10173.5 +/- 4198.78
+   Zernike expansion, Z42,38
+     Total Material
+       Kappa-Fission Rate                   2230.03 +/- 4334.79
+   Zernike expansion, Z42,40
+     Total Material
+       Kappa-Fission Rate                   14009.6 +/- 4184.41
+   Zernike expansion, Z42,42
+     Total Material
+       Kappa-Fission Rate                   -1981.56 +/- 4630.83
+   Zernike expansion, Z43,-43
+     Total Material
+       Kappa-Fission Rate                   3144.48 +/- 3997.71
+   Zernike expansion, Z43,-41
+     Total Material
+       Kappa-Fission Rate                   887.632 +/- 4262.97
+   Zernike expansion, Z43,-39
+     Total Material
+       Kappa-Fission Rate                   3129.58 +/- 4491.19
+   Zernike expansion, Z43,-37
+     Total Material
+       Kappa-Fission Rate                   6922.94 +/- 3972.96
+   Zernike expansion, Z43,-35
+     Total Material
+       Kappa-Fission Rate                   -2982.02 +/- 4265.04
+   Zernike expansion, Z43,-33
+     Total Material
+       Kappa-Fission Rate                   11879.2 +/- 4229.47
+   Zernike expansion, Z43,-31
+     Total Material
+       Kappa-Fission Rate                   1603.84 +/- 4094.19
+   Zernike expansion, Z43,-29
+     Total Material
+       Kappa-Fission Rate                   -7181.27 +/- 4585.97
+   Zernike expansion, Z43,-27
+     Total Material
+       Kappa-Fission Rate                   -3388.79 +/- 4468.58
+   Zernike expansion, Z43,-25
+     Total Material
+       Kappa-Fission Rate                   -4945.4 +/- 4288.05
+   Zernike expansion, Z43,-23
+     Total Material
+       Kappa-Fission Rate                   513.841 +/- 4224.3
+   Zernike expansion, Z43,-21
+     Total Material
+       Kappa-Fission Rate                   -10923.5 +/- 4241.29
+   Zernike expansion, Z43,-19
+     Total Material
+       Kappa-Fission Rate                   -1846.19 +/- 4404.32
+   Zernike expansion, Z43,-17
+     Total Material
+       Kappa-Fission Rate                   -1425.33 +/- 4352.24
+   Zernike expansion, Z43,-15
+     Total Material
+       Kappa-Fission Rate                   -5555.11 +/- 4058.25
+   Zernike expansion, Z43,-13
+     Total Material
+       Kappa-Fission Rate                   2349.36 +/- 3857.25
+   Zernike expansion, Z43,-11
+     Total Material
+       Kappa-Fission Rate                   -2896.66 +/- 3829.46
+   Zernike expansion, Z43,-9
+     Total Material
+       Kappa-Fission Rate                   -461.843 +/- 3807.2
+   Zernike expansion, Z43,-7
+     Total Material
+       Kappa-Fission Rate                   -3832.54 +/- 4024.24
+   Zernike expansion, Z43,-5
+     Total Material
+       Kappa-Fission Rate                   1520.47 +/- 3875.91
+   Zernike expansion, Z43,-3
+     Total Material
+       Kappa-Fission Rate                   2220.16 +/- 3654.26
+   Zernike expansion, Z43,-1
+     Total Material
+       Kappa-Fission Rate                   733.009 +/- 3473.88
+   Zernike expansion, Z43,1
+     Total Material
+       Kappa-Fission Rate                   -3305.11 +/- 4041.6
+   Zernike expansion, Z43,3
+     Total Material
+       Kappa-Fission Rate                   3405.84 +/- 3590.35
+   Zernike expansion, Z43,5
+     Total Material
+       Kappa-Fission Rate                   3392.32 +/- 3909.58
+   Zernike expansion, Z43,7
+     Total Material
+       Kappa-Fission Rate                   -2124.55 +/- 3835.27
+   Zernike expansion, Z43,9
+     Total Material
+       Kappa-Fission Rate                   1572.22 +/- 3929.94
+   Zernike expansion, Z43,11
+     Total Material
+       Kappa-Fission Rate                   -6024.2 +/- 4083.59
+   Zernike expansion, Z43,13
+     Total Material
+       Kappa-Fission Rate                   978.693 +/- 4025.49
+   Zernike expansion, Z43,15
+     Total Material
+       Kappa-Fission Rate                   -3932.26 +/- 3848.33
+   Zernike expansion, Z43,17
+     Total Material
+       Kappa-Fission Rate                   -5384.86 +/- 4025.84
+   Zernike expansion, Z43,19
+     Total Material
+       Kappa-Fission Rate                   -1108 +/- 4379.32
+   Zernike expansion, Z43,21
+     Total Material
+       Kappa-Fission Rate                   3414.7 +/- 4513.79
+   Zernike expansion, Z43,23
+     Total Material
+       Kappa-Fission Rate                   3.86213 +/- 4387.07
+   Zernike expansion, Z43,25
+     Total Material
+       Kappa-Fission Rate                   2744.34 +/- 4411.79
+   Zernike expansion, Z43,27
+     Total Material
+       Kappa-Fission Rate                   10569.7 +/- 4993
+   Zernike expansion, Z43,29
+     Total Material
+       Kappa-Fission Rate                   -338.933 +/- 4227.19
+   Zernike expansion, Z43,31
+     Total Material
+       Kappa-Fission Rate                   -9067.24 +/- 4190.71
+   Zernike expansion, Z43,33
+     Total Material
+       Kappa-Fission Rate                   803.765 +/- 4165.02
+   Zernike expansion, Z43,35
+     Total Material
+       Kappa-Fission Rate                   2011.03 +/- 4446.03
+   Zernike expansion, Z43,37
+     Total Material
+       Kappa-Fission Rate                   5361.76 +/- 4379.74
+   Zernike expansion, Z43,39
+     Total Material
+       Kappa-Fission Rate                   -1794.31 +/- 4133.23
+   Zernike expansion, Z43,41
+     Total Material
+       Kappa-Fission Rate                   6348.77 +/- 4600.54
+   Zernike expansion, Z43,43
+     Total Material
+       Kappa-Fission Rate                   2767.49 +/- 4002.92
+   Zernike expansion, Z44,-44
+     Total Material
+       Kappa-Fission Rate                   7506.1 +/- 3988.56
+   Zernike expansion, Z44,-42
+     Total Material
+       Kappa-Fission Rate                   335.188 +/- 4738.43
+   Zernike expansion, Z44,-40
+     Total Material
+       Kappa-Fission Rate                   5822.2 +/- 4347.54
+   Zernike expansion, Z44,-38
+     Total Material
+       Kappa-Fission Rate                   1013.83 +/- 4126.85
+   Zernike expansion, Z44,-36
+     Total Material
+       Kappa-Fission Rate                   -5237.92 +/- 4437.53
+   Zernike expansion, Z44,-34
+     Total Material
+       Kappa-Fission Rate                   -3388.92 +/- 4141.24
+   Zernike expansion, Z44,-32
+     Total Material
+       Kappa-Fission Rate                   3210.95 +/- 4252.04
+   Zernike expansion, Z44,-30
+     Total Material
+       Kappa-Fission Rate                   7532.95 +/- 4413.99
+   Zernike expansion, Z44,-28
+     Total Material
+       Kappa-Fission Rate                   -1912.32 +/- 4384.49
+   Zernike expansion, Z44,-26
+     Total Material
+       Kappa-Fission Rate                   4665.04 +/- 4285.38
+   Zernike expansion, Z44,-24
+     Total Material
+       Kappa-Fission Rate                   -6844.83 +/- 4350.36
+   Zernike expansion, Z44,-22
+     Total Material
+       Kappa-Fission Rate                   2160.92 +/- 4302.72
+   Zernike expansion, Z44,-20
+     Total Material
+       Kappa-Fission Rate                   -1192.74 +/- 4039.76
+   Zernike expansion, Z44,-18
+     Total Material
+       Kappa-Fission Rate                   -5450.38 +/- 4186.7
+   Zernike expansion, Z44,-16
+     Total Material
+       Kappa-Fission Rate                   -8150.16 +/- 4065.97
+   Zernike expansion, Z44,-14
+     Total Material
+       Kappa-Fission Rate                   -3077.94 +/- 3987.9
+   Zernike expansion, Z44,-12
+     Total Material
+       Kappa-Fission Rate                   8010.31 +/- 4040.93
+   Zernike expansion, Z44,-10
+     Total Material
+       Kappa-Fission Rate                   -8066.77 +/- 3786.73
+   Zernike expansion, Z44,-8
+     Total Material
+       Kappa-Fission Rate                   1556.15 +/- 3879.96
+   Zernike expansion, Z44,-6
+     Total Material
+       Kappa-Fission Rate                   2383.3 +/- 3966.34
+   Zernike expansion, Z44,-4
+     Total Material
+       Kappa-Fission Rate                   -6784.1 +/- 3919
+   Zernike expansion, Z44,-2
+     Total Material
+       Kappa-Fission Rate                   2679.69 +/- 3914.51
+   Zernike expansion, Z44,0
+     Total Material
+       Kappa-Fission Rate                   173483 +/- 5256.58
+   Zernike expansion, Z44,2
+     Total Material
+       Kappa-Fission Rate                   -8577.47 +/- 3616.47
+   Zernike expansion, Z44,4
+     Total Material
+       Kappa-Fission Rate                   3155.72 +/- 3611.23
+   Zernike expansion, Z44,6
+     Total Material
+       Kappa-Fission Rate                   -4449.95 +/- 4036.83
+   Zernike expansion, Z44,8
+     Total Material
+       Kappa-Fission Rate                   -7073.81 +/- 3990.55
+   Zernike expansion, Z44,10
+     Total Material
+       Kappa-Fission Rate                   894.513 +/- 3256.53
+   Zernike expansion, Z44,12
+     Total Material
+       Kappa-Fission Rate                   3130.95 +/- 3685.7
+   Zernike expansion, Z44,14
+     Total Material
+       Kappa-Fission Rate                   4192.25 +/- 4196.19
+   Zernike expansion, Z44,16
+     Total Material
+       Kappa-Fission Rate                   -8407.77 +/- 3981.59
+   Zernike expansion, Z44,18
+     Total Material
+       Kappa-Fission Rate                   4004.24 +/- 4547.33
+   Zernike expansion, Z44,20
+     Total Material
+       Kappa-Fission Rate                   308.514 +/- 4367.43
+   Zernike expansion, Z44,22
+     Total Material
+       Kappa-Fission Rate                   -569.621 +/- 4677.4
+   Zernike expansion, Z44,24
+     Total Material
+       Kappa-Fission Rate                   -10275.5 +/- 4585.54
+   Zernike expansion, Z44,26
+     Total Material
+       Kappa-Fission Rate                   6696.84 +/- 4484.79
+   Zernike expansion, Z44,28
+     Total Material
+       Kappa-Fission Rate                   -1205.71 +/- 4347.02
+   Zernike expansion, Z44,30
+     Total Material
+       Kappa-Fission Rate                   1235.01 +/- 4079.79
+   Zernike expansion, Z44,32
+     Total Material
+       Kappa-Fission Rate                   5244.76 +/- 4076.44
+   Zernike expansion, Z44,34
+     Total Material
+       Kappa-Fission Rate                   1150.66 +/- 3890.79
+   Zernike expansion, Z44,36
+     Total Material
+       Kappa-Fission Rate                   -1243.35 +/- 4942.44
+   Zernike expansion, Z44,38
+     Total Material
+       Kappa-Fission Rate                   987.254 +/- 4228.77
+   Zernike expansion, Z44,40
+     Total Material
+       Kappa-Fission Rate                   34770.8 +/- 4130.14
+   Zernike expansion, Z44,42
+     Total Material
+       Kappa-Fission Rate                   -1134.32 +/- 4651.9
+   Zernike expansion, Z44,44
+     Total Material
+       Kappa-Fission Rate                   4187.18 +/- 4376.93
+   Zernike expansion, Z45,-45
+     Total Material
+       Kappa-Fission Rate                   -2570.23 +/- 3940.89
+   Zernike expansion, Z45,-43
+     Total Material
+       Kappa-Fission Rate                   4016.36 +/- 3902.11
+   Zernike expansion, Z45,-41
+     Total Material
+       Kappa-Fission Rate                   3059.73 +/- 4376.64
+   Zernike expansion, Z45,-39
+     Total Material
+       Kappa-Fission Rate                   1822.19 +/- 4444.73
+   Zernike expansion, Z45,-37
+     Total Material
+       Kappa-Fission Rate                   960.072 +/- 3985.77
+   Zernike expansion, Z45,-35
+     Total Material
+       Kappa-Fission Rate                   -999.049 +/- 3968.9
+   Zernike expansion, Z45,-33
+     Total Material
+       Kappa-Fission Rate                   -6939.87 +/- 4057.07
+   Zernike expansion, Z45,-31
+     Total Material
+       Kappa-Fission Rate                   -347.551 +/- 4267.75
+   Zernike expansion, Z45,-29
+     Total Material
+       Kappa-Fission Rate                   1606.19 +/- 3972.37
+   Zernike expansion, Z45,-27
+     Total Material
+       Kappa-Fission Rate                   4039.59 +/- 4326.12
+   Zernike expansion, Z45,-25
+     Total Material
+       Kappa-Fission Rate                   -1191.31 +/- 4554.95
+   Zernike expansion, Z45,-23
+     Total Material
+       Kappa-Fission Rate                   875.613 +/- 4551.08
+   Zernike expansion, Z45,-21
+     Total Material
+       Kappa-Fission Rate                   3838.06 +/- 3994.32
+   Zernike expansion, Z45,-19
+     Total Material
+       Kappa-Fission Rate                   -5164.77 +/- 4265.09
+   Zernike expansion, Z45,-17
+     Total Material
+       Kappa-Fission Rate                   857.921 +/- 4390.17
+   Zernike expansion, Z45,-15
+     Total Material
+       Kappa-Fission Rate                   3844.35 +/- 4014.83
+   Zernike expansion, Z45,-13
+     Total Material
+       Kappa-Fission Rate                   228.115 +/- 4033.04
+   Zernike expansion, Z45,-11
+     Total Material
+       Kappa-Fission Rate                   -1763.71 +/- 3656.6
+   Zernike expansion, Z45,-9
+     Total Material
+       Kappa-Fission Rate                   -3652.71 +/- 3978.51
+   Zernike expansion, Z45,-7
+     Total Material
+       Kappa-Fission Rate                   1968.68 +/- 3793.21
+   Zernike expansion, Z45,-5
+     Total Material
+       Kappa-Fission Rate                   -5848.28 +/- 3759.86
+   Zernike expansion, Z45,-3
+     Total Material
+       Kappa-Fission Rate                   599.875 +/- 3706.41
+   Zernike expansion, Z45,-1
+     Total Material
+       Kappa-Fission Rate                   2905.12 +/- 3822.98
+   Zernike expansion, Z45,1
+     Total Material
+       Kappa-Fission Rate                   420.055 +/- 3609.1
+   Zernike expansion, Z45,3
+     Total Material
+       Kappa-Fission Rate                   -574.085 +/- 3652.03
+   Zernike expansion, Z45,5
+     Total Material
+       Kappa-Fission Rate                   -3315.96 +/- 3711.98
+   Zernike expansion, Z45,7
+     Total Material
+       Kappa-Fission Rate                   -3273.51 +/- 3971
+   Zernike expansion, Z45,9
+     Total Material
+       Kappa-Fission Rate                   -62.0799 +/- 3618.18
+   Zernike expansion, Z45,11
+     Total Material
+       Kappa-Fission Rate                   -5905.29 +/- 4174.06
+   Zernike expansion, Z45,13
+     Total Material
+       Kappa-Fission Rate                   3241.93 +/- 3766.43
+   Zernike expansion, Z45,15
+     Total Material
+       Kappa-Fission Rate                   1151.28 +/- 3771.42
+   Zernike expansion, Z45,17
+     Total Material
+       Kappa-Fission Rate                   4341.61 +/- 3847.76
+   Zernike expansion, Z45,19
+     Total Material
+       Kappa-Fission Rate                   346.643 +/- 4413.25
+   Zernike expansion, Z45,21
+     Total Material
+       Kappa-Fission Rate                   52.7427 +/- 4296.23
+   Zernike expansion, Z45,23
+     Total Material
+       Kappa-Fission Rate                   787.088 +/- 4114.96
+   Zernike expansion, Z45,25
+     Total Material
+       Kappa-Fission Rate                   3154.87 +/- 4305.72
+   Zernike expansion, Z45,27
+     Total Material
+       Kappa-Fission Rate                   83.4431 +/- 4409.93
+   Zernike expansion, Z45,29
+     Total Material
+       Kappa-Fission Rate                   1604.03 +/- 4308.55
+   Zernike expansion, Z45,31
+     Total Material
+       Kappa-Fission Rate                   -3513.46 +/- 4113.65
+   Zernike expansion, Z45,33
+     Total Material
+       Kappa-Fission Rate                   -8914.26 +/- 4345.4
+   Zernike expansion, Z45,35
+     Total Material
+       Kappa-Fission Rate                   -406.965 +/- 4445.51
+   Zernike expansion, Z45,37
+     Total Material
+       Kappa-Fission Rate                   -1801.17 +/- 4205.79
+   Zernike expansion, Z45,39
+     Total Material
+       Kappa-Fission Rate                   -6981.25 +/- 3754.64
+   Zernike expansion, Z45,41
+     Total Material
+       Kappa-Fission Rate                   -463.518 +/- 4174.5
+   Zernike expansion, Z45,43
+     Total Material
+       Kappa-Fission Rate                   1532.18 +/- 4330.2
+   Zernike expansion, Z45,45
+     Total Material
+       Kappa-Fission Rate                   -2886.53 +/- 3882.13
+   Zernike expansion, Z46,-46
+     Total Material
+       Kappa-Fission Rate                   4870.73 +/- 3576.91
+   Zernike expansion, Z46,-44
+     Total Material
+       Kappa-Fission Rate                   -5801.65 +/- 4253.39
+   Zernike expansion, Z46,-42
+     Total Material
+       Kappa-Fission Rate                   -4599.28 +/- 4382.74
+   Zernike expansion, Z46,-40
+     Total Material
+       Kappa-Fission Rate                   -6207.81 +/- 3907.82
+   Zernike expansion, Z46,-38
+     Total Material
+       Kappa-Fission Rate                   9265.53 +/- 4326.73
+   Zernike expansion, Z46,-36
+     Total Material
+       Kappa-Fission Rate                   -140.113 +/- 4277.96
+   Zernike expansion, Z46,-34
+     Total Material
+       Kappa-Fission Rate                   4484.56 +/- 4638.58
+   Zernike expansion, Z46,-32
+     Total Material
+       Kappa-Fission Rate                   -327.182 +/- 3914.78
+   Zernike expansion, Z46,-30
+     Total Material
+       Kappa-Fission Rate                   -5023.27 +/- 4101.18
+   Zernike expansion, Z46,-28
+     Total Material
+       Kappa-Fission Rate                   -1213.11 +/- 4446.25
+   Zernike expansion, Z46,-26
+     Total Material
+       Kappa-Fission Rate                   6930.25 +/- 4184.5
+   Zernike expansion, Z46,-24
+     Total Material
+       Kappa-Fission Rate                   6642.9 +/- 4039.54
+   Zernike expansion, Z46,-22
+     Total Material
+       Kappa-Fission Rate                   4235.76 +/- 3777.25
+   Zernike expansion, Z46,-20
+     Total Material
+       Kappa-Fission Rate                   9029.92 +/- 4331.94
+   Zernike expansion, Z46,-18
+     Total Material
+       Kappa-Fission Rate                   5343.94 +/- 3737.06
+   Zernike expansion, Z46,-16
+     Total Material
+       Kappa-Fission Rate                   11494.6 +/- 4167.9
+   Zernike expansion, Z46,-14
+     Total Material
+       Kappa-Fission Rate                   2197.98 +/- 3791.24
+   Zernike expansion, Z46,-12
+     Total Material
+       Kappa-Fission Rate                   1338.73 +/- 4026.23
+   Zernike expansion, Z46,-10
+     Total Material
+       Kappa-Fission Rate                   -3706.46 +/- 3775.69
+   Zernike expansion, Z46,-8
+     Total Material
+       Kappa-Fission Rate                   -1957.51 +/- 3724.74
+   Zernike expansion, Z46,-6
+     Total Material
+       Kappa-Fission Rate                   1048.75 +/- 3422.17
+   Zernike expansion, Z46,-4
+     Total Material
+       Kappa-Fission Rate                   -846.77 +/- 3698.78
+   Zernike expansion, Z46,-2
+     Total Material
+       Kappa-Fission Rate                   -2853.13 +/- 3844.2
+   Zernike expansion, Z46,0
+     Total Material
+       Kappa-Fission Rate                   -52602.4 +/- 5089.91
+   Zernike expansion, Z46,2
+     Total Material
+       Kappa-Fission Rate                   -1066.13 +/- 3613.23
+   Zernike expansion, Z46,4
+     Total Material
+       Kappa-Fission Rate                   3460.17 +/- 3418.58
+   Zernike expansion, Z46,6
+     Total Material
+       Kappa-Fission Rate                   -424.117 +/- 3761.17
+   Zernike expansion, Z46,8
+     Total Material
+       Kappa-Fission Rate                   3367.9 +/- 3367.42
+   Zernike expansion, Z46,10
+     Total Material
+       Kappa-Fission Rate                   3018.62 +/- 3879.16
+   Zernike expansion, Z46,12
+     Total Material
+       Kappa-Fission Rate                   3310.06 +/- 3610.7
+   Zernike expansion, Z46,14
+     Total Material
+       Kappa-Fission Rate                   1333.36 +/- 3807.08
+   Zernike expansion, Z46,16
+     Total Material
+       Kappa-Fission Rate                   -6025.42 +/- 3642.16
+   Zernike expansion, Z46,18
+     Total Material
+       Kappa-Fission Rate                   -1608.31 +/- 4478.96
+   Zernike expansion, Z46,20
+     Total Material
+       Kappa-Fission Rate                   3100.78 +/- 4266.95
+   Zernike expansion, Z46,22
+     Total Material
+       Kappa-Fission Rate                   -3825.48 +/- 4052.83
+   Zernike expansion, Z46,24
+     Total Material
+       Kappa-Fission Rate                   -17776.2 +/- 4232.72
+   Zernike expansion, Z46,26
+     Total Material
+       Kappa-Fission Rate                   6927.04 +/- 4301.12
+   Zernike expansion, Z46,28
+     Total Material
+       Kappa-Fission Rate                   -5618.6 +/- 4285.33
+   Zernike expansion, Z46,30
+     Total Material
+       Kappa-Fission Rate                   2594.09 +/- 4101.27
+   Zernike expansion, Z46,32
+     Total Material
+       Kappa-Fission Rate                   -12127 +/- 4268.84
+   Zernike expansion, Z46,34
+     Total Material
+       Kappa-Fission Rate                   -1102.63 +/- 4213.52
+   Zernike expansion, Z46,36
+     Total Material
+       Kappa-Fission Rate                   1829.14 +/- 4149.43
+   Zernike expansion, Z46,38
+     Total Material
+       Kappa-Fission Rate                   -1705.66 +/- 4070.65
+   Zernike expansion, Z46,40
+     Total Material
+       Kappa-Fission Rate                   31638.9 +/- 3883.25
+   Zernike expansion, Z46,42
+     Total Material
+       Kappa-Fission Rate                   3051.5 +/- 4093.92
+   Zernike expansion, Z46,44
+     Total Material
+       Kappa-Fission Rate                   582.26 +/- 4195.33
+   Zernike expansion, Z46,46
+     Total Material
+       Kappa-Fission Rate                   7705.06 +/- 3979.23
+   Zernike expansion, Z47,-47
+     Total Material
+       Kappa-Fission Rate                   -3799.8 +/- 3948.02
+   Zernike expansion, Z47,-45
+     Total Material
+       Kappa-Fission Rate                   2930.18 +/- 4152.07
+   Zernike expansion, Z47,-43
+     Total Material
+       Kappa-Fission Rate                   -2179.51 +/- 3993.65
+   Zernike expansion, Z47,-41
+     Total Material
+       Kappa-Fission Rate                   3988.72 +/- 3965.43
+   Zernike expansion, Z47,-39
+     Total Material
+       Kappa-Fission Rate                   -3995.02 +/- 4216.32
+   Zernike expansion, Z47,-37
+     Total Material
+       Kappa-Fission Rate                   3022.11 +/- 3903.14
+   Zernike expansion, Z47,-35
+     Total Material
+       Kappa-Fission Rate                   -840.519 +/- 4111.58
+   Zernike expansion, Z47,-33
+     Total Material
+       Kappa-Fission Rate                   -749.682 +/- 4269.4
+   Zernike expansion, Z47,-31
+     Total Material
+       Kappa-Fission Rate                   -1503.97 +/- 4399.75
+   Zernike expansion, Z47,-29
+     Total Material
+       Kappa-Fission Rate                   -6475.42 +/- 4098.02
+   Zernike expansion, Z47,-27
+     Total Material
+       Kappa-Fission Rate                   4446.91 +/- 4532.07
+   Zernike expansion, Z47,-25
+     Total Material
+       Kappa-Fission Rate                   3020.55 +/- 4366.44
+   Zernike expansion, Z47,-23
+     Total Material
+       Kappa-Fission Rate                   3563.07 +/- 4326.05
+   Zernike expansion, Z47,-21
+     Total Material
+       Kappa-Fission Rate                   5062.12 +/- 3947.09
+   Zernike expansion, Z47,-19
+     Total Material
+       Kappa-Fission Rate                   1386.23 +/- 3921.64
+   Zernike expansion, Z47,-17
+     Total Material
+       Kappa-Fission Rate                   -1184.99 +/- 3854.25
+   Zernike expansion, Z47,-15
+     Total Material
+       Kappa-Fission Rate                   1828.74 +/- 3597.22
+   Zernike expansion, Z47,-13
+     Total Material
+       Kappa-Fission Rate                   -3259.5 +/- 3644.22
+   Zernike expansion, Z47,-11
+     Total Material
+       Kappa-Fission Rate                   9740.63 +/- 3386.29
+   Zernike expansion, Z47,-9
+     Total Material
+       Kappa-Fission Rate                   -3131.81 +/- 3551.97
+   Zernike expansion, Z47,-7
+     Total Material
+       Kappa-Fission Rate                   1019.78 +/- 3668.94
+   Zernike expansion, Z47,-5
+     Total Material
+       Kappa-Fission Rate                   -6486.97 +/- 3495.47
+   Zernike expansion, Z47,-3
+     Total Material
+       Kappa-Fission Rate                   -2440.61 +/- 3299.66
+   Zernike expansion, Z47,-1
+     Total Material
+       Kappa-Fission Rate                   1038.23 +/- 3491
+   Zernike expansion, Z47,1
+     Total Material
+       Kappa-Fission Rate                   5732.53 +/- 3736.94
+   Zernike expansion, Z47,3
+     Total Material
+       Kappa-Fission Rate                   -881.517 +/- 3585.69
+   Zernike expansion, Z47,5
+     Total Material
+       Kappa-Fission Rate                   -409.736 +/- 3890.27
+   Zernike expansion, Z47,7
+     Total Material
+       Kappa-Fission Rate                   3576.33 +/- 3307.58
+   Zernike expansion, Z47,9
+     Total Material
+       Kappa-Fission Rate                   -3532.7 +/- 3583.45
+   Zernike expansion, Z47,11
+     Total Material
+       Kappa-Fission Rate                   -296.858 +/- 3883.79
+   Zernike expansion, Z47,13
+     Total Material
+       Kappa-Fission Rate                   5218.85 +/- 3960.14
+   Zernike expansion, Z47,15
+     Total Material
+       Kappa-Fission Rate                   2151.05 +/- 3731.62
+   Zernike expansion, Z47,17
+     Total Material
+       Kappa-Fission Rate                   3940.4 +/- 3919.22
+   Zernike expansion, Z47,19
+     Total Material
+       Kappa-Fission Rate                   -2661.82 +/- 4259.47
+   Zernike expansion, Z47,21
+     Total Material
+       Kappa-Fission Rate                   -231.381 +/- 4348.55
+   Zernike expansion, Z47,23
+     Total Material
+       Kappa-Fission Rate                   1208.37 +/- 3888.97
+   Zernike expansion, Z47,25
+     Total Material
+       Kappa-Fission Rate                   4146.81 +/- 4325.02
+   Zernike expansion, Z47,27
+     Total Material
+       Kappa-Fission Rate                   1117.55 +/- 4188.59
+   Zernike expansion, Z47,29
+     Total Material
+       Kappa-Fission Rate                   -830.819 +/- 3975.36
+   Zernike expansion, Z47,31
+     Total Material
+       Kappa-Fission Rate                   1734.2 +/- 4053.41
+   Zernike expansion, Z47,33
+     Total Material
+       Kappa-Fission Rate                   6803.28 +/- 4247.11
+   Zernike expansion, Z47,35
+     Total Material
+       Kappa-Fission Rate                   -2081.88 +/- 4170.73
+   Zernike expansion, Z47,37
+     Total Material
+       Kappa-Fission Rate                   1236.37 +/- 4384.81
+   Zernike expansion, Z47,39
+     Total Material
+       Kappa-Fission Rate                   4552.2 +/- 4114.36
+   Zernike expansion, Z47,41
+     Total Material
+       Kappa-Fission Rate                   4887.56 +/- 4162.88
+   Zernike expansion, Z47,43
+     Total Material
+       Kappa-Fission Rate                   -365.164 +/- 4183.17
+   Zernike expansion, Z47,45
+     Total Material
+       Kappa-Fission Rate                   926.148 +/- 3591.47
+   Zernike expansion, Z47,47
+     Total Material
+       Kappa-Fission Rate                   -1888.17 +/- 3549.23
+   Zernike expansion, Z48,-48
+     Total Material
+       Kappa-Fission Rate                   158.798 +/- 3746.86
+   Zernike expansion, Z48,-46
+     Total Material
+       Kappa-Fission Rate                   -4928.32 +/- 3844.76
+   Zernike expansion, Z48,-44
+     Total Material
+       Kappa-Fission Rate                   5037.51 +/- 4058.91
+   Zernike expansion, Z48,-42
+     Total Material
+       Kappa-Fission Rate                   2785.87 +/- 4222.97
+   Zernike expansion, Z48,-40
+     Total Material
+       Kappa-Fission Rate                   300.809 +/- 4065.69
+   Zernike expansion, Z48,-38
+     Total Material
+       Kappa-Fission Rate                   -3386.42 +/- 4100.35
+   Zernike expansion, Z48,-36
+     Total Material
+       Kappa-Fission Rate                   -5014.02 +/- 3755.19
+   Zernike expansion, Z48,-34
+     Total Material
+       Kappa-Fission Rate                   -1779.87 +/- 4403.51
+   Zernike expansion, Z48,-32
+     Total Material
+       Kappa-Fission Rate                   4795.27 +/- 4309.01
+   Zernike expansion, Z48,-30
+     Total Material
+       Kappa-Fission Rate                   -4496.18 +/- 4520.89
+   Zernike expansion, Z48,-28
+     Total Material
+       Kappa-Fission Rate                   -2447.77 +/- 4476.3
+   Zernike expansion, Z48,-26
+     Total Material
+       Kappa-Fission Rate                   1559.85 +/- 4051
+   Zernike expansion, Z48,-24
+     Total Material
+       Kappa-Fission Rate                   -9917.95 +/- 4211.99
+   Zernike expansion, Z48,-22
+     Total Material
+       Kappa-Fission Rate                   8536.33 +/- 4144.31
+   Zernike expansion, Z48,-20
+     Total Material
+       Kappa-Fission Rate                   2215.03 +/- 4463.27
+   Zernike expansion, Z48,-18
+     Total Material
+       Kappa-Fission Rate                   1001.12 +/- 3988.42
+   Zernike expansion, Z48,-16
+     Total Material
+       Kappa-Fission Rate                   1599.89 +/- 4034.87
+   Zernike expansion, Z48,-14
+     Total Material
+       Kappa-Fission Rate                   1912.96 +/- 3476.72
+   Zernike expansion, Z48,-12
+     Total Material
+       Kappa-Fission Rate                   -5605.57 +/- 3436.34
+   Zernike expansion, Z48,-10
+     Total Material
+       Kappa-Fission Rate                   -1091.12 +/- 3749.74
+   Zernike expansion, Z48,-8
+     Total Material
+       Kappa-Fission Rate                   -147.88 +/- 3463.33
+   Zernike expansion, Z48,-6
+     Total Material
+       Kappa-Fission Rate                   -2098.64 +/- 3415.68
+   Zernike expansion, Z48,-4
+     Total Material
+       Kappa-Fission Rate                   -2971.08 +/- 3797.35
+   Zernike expansion, Z48,-2
+     Total Material
+       Kappa-Fission Rate                   273.412 +/- 3399.39
+   Zernike expansion, Z48,0
+     Total Material
+       Kappa-Fission Rate                   -86506.9 +/- 4545.69
+   Zernike expansion, Z48,2
+     Total Material
+       Kappa-Fission Rate                   3460.41 +/- 3562.95
+   Zernike expansion, Z48,4
+     Total Material
+       Kappa-Fission Rate                   -6127.13 +/- 3492.72
+   Zernike expansion, Z48,6
+     Total Material
+       Kappa-Fission Rate                   1675.65 +/- 3393.96
+   Zernike expansion, Z48,8
+     Total Material
+       Kappa-Fission Rate                   -5411.4 +/- 3688.67
+   Zernike expansion, Z48,10
+     Total Material
+       Kappa-Fission Rate                   887.689 +/- 3552.05
+   Zernike expansion, Z48,12
+     Total Material
+       Kappa-Fission Rate                   5505.92 +/- 3234.42
+   Zernike expansion, Z48,14
+     Total Material
+       Kappa-Fission Rate                   -18.3886 +/- 3936.45
+   Zernike expansion, Z48,16
+     Total Material
+       Kappa-Fission Rate                   -4578.33 +/- 3765.08
+   Zernike expansion, Z48,18
+     Total Material
+       Kappa-Fission Rate                   -2288.19 +/- 4101.88
+   Zernike expansion, Z48,20
+     Total Material
+       Kappa-Fission Rate                   -2793.01 +/- 4482.77
+   Zernike expansion, Z48,22
+     Total Material
+       Kappa-Fission Rate                   -1451.46 +/- 4093.3
+   Zernike expansion, Z48,24
+     Total Material
+       Kappa-Fission Rate                   -4584.15 +/- 3791.49
+   Zernike expansion, Z48,26
+     Total Material
+       Kappa-Fission Rate                   -1228.94 +/- 4523.58
+   Zernike expansion, Z48,28
+     Total Material
+       Kappa-Fission Rate                   1496.85 +/- 4266.48
+   Zernike expansion, Z48,30
+     Total Material
+       Kappa-Fission Rate                   1016.9 +/- 4068.12
+   Zernike expansion, Z48,32
+     Total Material
+       Kappa-Fission Rate                   -16733.6 +/- 4427
+   Zernike expansion, Z48,34
+     Total Material
+       Kappa-Fission Rate                   785.493 +/- 4183.78
+   Zernike expansion, Z48,36
+     Total Material
+       Kappa-Fission Rate                   -3223 +/- 3964.23
+   Zernike expansion, Z48,38
+     Total Material
+       Kappa-Fission Rate                   3399.97 +/- 4167.86
+   Zernike expansion, Z48,40
+     Total Material
+       Kappa-Fission Rate                   5849.76 +/- 4646.51
+   Zernike expansion, Z48,42
+     Total Material
+       Kappa-Fission Rate                   -849.847 +/- 4392.14
+   Zernike expansion, Z48,44
+     Total Material
+       Kappa-Fission Rate                   -1826.16 +/- 4106.8
+   Zernike expansion, Z48,46
+     Total Material
+       Kappa-Fission Rate                   -4904.56 +/- 3900.21
+   Zernike expansion, Z48,48
+     Total Material
+       Kappa-Fission Rate                   -22127.7 +/- 3774.1
+   Zernike expansion, Z49,-49
+     Total Material
+       Kappa-Fission Rate                   -2691.44 +/- 4092.56
+   Zernike expansion, Z49,-47
+     Total Material
+       Kappa-Fission Rate                   -5162.92 +/- 3838.09
+   Zernike expansion, Z49,-45
+     Total Material
+       Kappa-Fission Rate                   -3411.89 +/- 3856.72
+   Zernike expansion, Z49,-43
+     Total Material
+       Kappa-Fission Rate                   3089.6 +/- 3904.59
+   Zernike expansion, Z49,-41
+     Total Material
+       Kappa-Fission Rate                   -4260.01 +/- 3889.77
+   Zernike expansion, Z49,-39
+     Total Material
+       Kappa-Fission Rate                   1701.61 +/- 4107.7
+   Zernike expansion, Z49,-37
+     Total Material
+       Kappa-Fission Rate                   -5761.12 +/- 4389.05
+   Zernike expansion, Z49,-35
+     Total Material
+       Kappa-Fission Rate                   -8458.68 +/- 4155.51
+   Zernike expansion, Z49,-33
+     Total Material
+       Kappa-Fission Rate                   -2266.7 +/- 4039.22
+   Zernike expansion, Z49,-31
+     Total Material
+       Kappa-Fission Rate                   -2509.9 +/- 4223.64
+   Zernike expansion, Z49,-29
+     Total Material
+       Kappa-Fission Rate                   5714.02 +/- 3807.72
+   Zernike expansion, Z49,-27
+     Total Material
+       Kappa-Fission Rate                   2290.54 +/- 4214.16
+   Zernike expansion, Z49,-25
+     Total Material
+       Kappa-Fission Rate                   -484.851 +/- 4321.63
+   Zernike expansion, Z49,-23
+     Total Material
+       Kappa-Fission Rate                   -4376.16 +/- 4270.08
+   Zernike expansion, Z49,-21
+     Total Material
+       Kappa-Fission Rate                   -1006.17 +/- 4322.4
+   Zernike expansion, Z49,-19
+     Total Material
+       Kappa-Fission Rate                   3299.39 +/- 4446.18
+   Zernike expansion, Z49,-17
+     Total Material
+       Kappa-Fission Rate                   -419.283 +/- 3911.21
+   Zernike expansion, Z49,-15
+     Total Material
+       Kappa-Fission Rate                   -2808.83 +/- 3704.36
+   Zernike expansion, Z49,-13
+     Total Material
+       Kappa-Fission Rate                   1366.1 +/- 3446.73
+   Zernike expansion, Z49,-11
+     Total Material
+       Kappa-Fission Rate                   1738.72 +/- 3410.6
+   Zernike expansion, Z49,-9
+     Total Material
+       Kappa-Fission Rate                   -287.454 +/- 3609.15
+   Zernike expansion, Z49,-7
+     Total Material
+       Kappa-Fission Rate                   -1166.63 +/- 3625.41
+   Zernike expansion, Z49,-5
+     Total Material
+       Kappa-Fission Rate                   -1831.63 +/- 3523.63
+   Zernike expansion, Z49,-3
+     Total Material
+       Kappa-Fission Rate                   -1415.91 +/- 3496.02
+   Zernike expansion, Z49,-1
+     Total Material
+       Kappa-Fission Rate                   911.977 +/- 3468.43
+   Zernike expansion, Z49,1
+     Total Material
+       Kappa-Fission Rate                   1492.61 +/- 3406.26
+   Zernike expansion, Z49,3
+     Total Material
+       Kappa-Fission Rate                   -8144.65 +/- 3382.14
+   Zernike expansion, Z49,5
+     Total Material
+       Kappa-Fission Rate                   -2808.19 +/- 3749.43
+   Zernike expansion, Z49,7
+     Total Material
+       Kappa-Fission Rate                   5386.27 +/- 3282.86
+   Zernike expansion, Z49,9
+     Total Material
+       Kappa-Fission Rate                   -2833.85 +/- 3924.21
+   Zernike expansion, Z49,11
+     Total Material
+       Kappa-Fission Rate                   523.046 +/- 3708.98
+   Zernike expansion, Z49,13
+     Total Material
+       Kappa-Fission Rate                   -662.822 +/- 3610
+   Zernike expansion, Z49,15
+     Total Material
+       Kappa-Fission Rate                   1501.91 +/- 3566.21
+   Zernike expansion, Z49,17
+     Total Material
+       Kappa-Fission Rate                   -2884.01 +/- 3851.16
+   Zernike expansion, Z49,19
+     Total Material
+       Kappa-Fission Rate                   6368.33 +/- 4511.22
+   Zernike expansion, Z49,21
+     Total Material
+       Kappa-Fission Rate                   -1310.32 +/- 4289.02
+   Zernike expansion, Z49,23
+     Total Material
+       Kappa-Fission Rate                   -9308.28 +/- 4042.22
+   Zernike expansion, Z49,25
+     Total Material
+       Kappa-Fission Rate                   4687.93 +/- 4160.42
+   Zernike expansion, Z49,27
+     Total Material
+       Kappa-Fission Rate                   -5471.92 +/- 4264.15
+   Zernike expansion, Z49,29
+     Total Material
+       Kappa-Fission Rate                   -1599.19 +/- 4426.68
+   Zernike expansion, Z49,31
+     Total Material
+       Kappa-Fission Rate                   -668.663 +/- 3941.53
+   Zernike expansion, Z49,33
+     Total Material
+       Kappa-Fission Rate                   3462.27 +/- 3926.3
+   Zernike expansion, Z49,35
+     Total Material
+       Kappa-Fission Rate                   3266.19 +/- 4302.02
+   Zernike expansion, Z49,37
+     Total Material
+       Kappa-Fission Rate                   -6131.95 +/- 4052.14
+   Zernike expansion, Z49,39
+     Total Material
+       Kappa-Fission Rate                   -4141.67 +/- 3884.65
+   Zernike expansion, Z49,41
+     Total Material
+       Kappa-Fission Rate                   -6476.89 +/- 4254.76
+   Zernike expansion, Z49,43
+     Total Material
+       Kappa-Fission Rate                   911.59 +/- 4035.04
+   Zernike expansion, Z49,45
+     Total Material
+       Kappa-Fission Rate                   -1684.62 +/- 4216.22
+   Zernike expansion, Z49,47
+     Total Material
+       Kappa-Fission Rate                   3546.08 +/- 4319.26
+   Zernike expansion, Z49,49
+     Total Material
+       Kappa-Fission Rate                   6782.37 +/- 3911.28
+   Zernike expansion, Z50,-50
+     Total Material
+       Kappa-Fission Rate                   7198.94 +/- 3937.02
+   Zernike expansion, Z50,-48
+     Total Material
+       Kappa-Fission Rate                   -4615.73 +/- 3990.7
+   Zernike expansion, Z50,-46
+     Total Material
+       Kappa-Fission Rate                   5045.29 +/- 4213.81
+   Zernike expansion, Z50,-44
+     Total Material
+       Kappa-Fission Rate                   -1048.11 +/- 3907.81
+   Zernike expansion, Z50,-42
+     Total Material
+       Kappa-Fission Rate                   2377.22 +/- 4160.74
+   Zernike expansion, Z50,-40
+     Total Material
+       Kappa-Fission Rate                   5401.65 +/- 4220.14
+   Zernike expansion, Z50,-38
+     Total Material
+       Kappa-Fission Rate                   6502.75 +/- 4270.29
+   Zernike expansion, Z50,-36
+     Total Material
+       Kappa-Fission Rate                   -430.318 +/- 4473
+   Zernike expansion, Z50,-34
+     Total Material
+       Kappa-Fission Rate                   -6661.11 +/- 3832.29
+   Zernike expansion, Z50,-32
+     Total Material
+       Kappa-Fission Rate                   -4271.26 +/- 3990.76
+   Zernike expansion, Z50,-30
+     Total Material
+       Kappa-Fission Rate                   1194.45 +/- 4168.06
+   Zernike expansion, Z50,-28
+     Total Material
+       Kappa-Fission Rate                   -6381.47 +/- 4050.67
+   Zernike expansion, Z50,-26
+     Total Material
+       Kappa-Fission Rate                   -3980.37 +/- 4131.33
+   Zernike expansion, Z50,-24
+     Total Material
+       Kappa-Fission Rate                   5725.94 +/- 4106.12
+   Zernike expansion, Z50,-22
+     Total Material
+       Kappa-Fission Rate                   1581.47 +/- 3999.97
+   Zernike expansion, Z50,-20
+     Total Material
+       Kappa-Fission Rate                   -3522.22 +/- 4031.96
+   Zernike expansion, Z50,-18
+     Total Material
+       Kappa-Fission Rate                   -601.378 +/- 3842.3
+   Zernike expansion, Z50,-16
+     Total Material
+       Kappa-Fission Rate                   -1422.15 +/- 3679.57
+   Zernike expansion, Z50,-14
+     Total Material
+       Kappa-Fission Rate                   1531.67 +/- 3868.91
+   Zernike expansion, Z50,-12
+     Total Material
+       Kappa-Fission Rate                   861.647 +/- 3642.98
+   Zernike expansion, Z50,-10
+     Total Material
+       Kappa-Fission Rate                   3651.25 +/- 3820.36
+   Zernike expansion, Z50,-8
+     Total Material
+       Kappa-Fission Rate                   4208.07 +/- 3992.14
+   Zernike expansion, Z50,-6
+     Total Material
+       Kappa-Fission Rate                   3249.47 +/- 3441.3
+   Zernike expansion, Z50,-4
+     Total Material
+       Kappa-Fission Rate                   -584.59 +/- 3493.57
+   Zernike expansion, Z50,-2
+     Total Material
+       Kappa-Fission Rate                   1451.86 +/- 3227.43
+   Zernike expansion, Z50,0
+     Total Material
+       Kappa-Fission Rate                   166273 +/- 5005.58
+   Zernike expansion, Z50,2
+     Total Material
+       Kappa-Fission Rate                   -2250.02 +/- 3229.35
+   Zernike expansion, Z50,4
+     Total Material
+       Kappa-Fission Rate                   -5839.45 +/- 3122.74
+   Zernike expansion, Z50,6
+     Total Material
+       Kappa-Fission Rate                   -1512.51 +/- 3614.63
+   Zernike expansion, Z50,8
+     Total Material
+       Kappa-Fission Rate                   -353.419 +/- 3494.81
+   Zernike expansion, Z50,10
+     Total Material
+       Kappa-Fission Rate                   2436.96 +/- 3658.55
+   Zernike expansion, Z50,12
+     Total Material
+       Kappa-Fission Rate                   2168.27 +/- 3371.32
+   Zernike expansion, Z50,14
+     Total Material
+       Kappa-Fission Rate                   198.744 +/- 3671.04
+   Zernike expansion, Z50,16
+     Total Material
+       Kappa-Fission Rate                   8019.71 +/- 3464.81
+   Zernike expansion, Z50,18
+     Total Material
+       Kappa-Fission Rate                   -2013.79 +/- 4070.98
+   Zernike expansion, Z50,20
+     Total Material
+       Kappa-Fission Rate                   8292.24 +/- 3932.03
+   Zernike expansion, Z50,22
+     Total Material
+       Kappa-Fission Rate                   -7966.1 +/- 4210.2
+   Zernike expansion, Z50,24
+     Total Material
+       Kappa-Fission Rate                   -5441.81 +/- 4186.02
+   Zernike expansion, Z50,26
+     Total Material
+       Kappa-Fission Rate                   3101.97 +/- 3922.15
+   Zernike expansion, Z50,28
+     Total Material
+       Kappa-Fission Rate                   -114.417 +/- 4451.46
+   Zernike expansion, Z50,30
+     Total Material
+       Kappa-Fission Rate                   -11690.3 +/- 3953.42
+   Zernike expansion, Z50,32
+     Total Material
+       Kappa-Fission Rate                   -12813.4 +/- 3919.45
+   Zernike expansion, Z50,34
+     Total Material
+       Kappa-Fission Rate                   3575.92 +/- 3871.02
+   Zernike expansion, Z50,36
+     Total Material
+       Kappa-Fission Rate                   -4502.43 +/- 3784.2
+   Zernike expansion, Z50,38
+     Total Material
+       Kappa-Fission Rate                   -1208.83 +/- 4023.34
+   Zernike expansion, Z50,40
+     Total Material
+       Kappa-Fission Rate                   -13598.8 +/- 3905.48
+   Zernike expansion, Z50,42
+     Total Material
+       Kappa-Fission Rate                   -5869.54 +/- 4072.61
+   Zernike expansion, Z50,44
+     Total Material
+       Kappa-Fission Rate                   402.034 +/- 3931.38
+   Zernike expansion, Z50,46
+     Total Material
+       Kappa-Fission Rate                   -5193.81 +/- 3690.64
+   Zernike expansion, Z50,48
+     Total Material
+       Kappa-Fission Rate                   28074.1 +/- 4020.03
+   Zernike expansion, Z50,50
+     Total Material
+       Kappa-Fission Rate                   1172.94 +/- 3587.11

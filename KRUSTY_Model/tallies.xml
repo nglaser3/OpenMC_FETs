@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tallies>
+  <filter id="8" type="cell">
+    <bins>26</bins>
+  </filter>
+  <filter id="7" type="zernike">
+    <order>50</order>
+    <x>0.0</x>
+    <y>0.0</y>
+    <r>5.5</r>
+  </filter>
+  <tally id="5">
+    <filters>8 7</filters>
+    <scores>kappa-fission</scores>
+  </tally>
+</tallies>
