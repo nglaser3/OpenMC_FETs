@@ -26512,7 +26512,7 @@
   </geometry>
   <settings>
     <run_mode>eigenvalue</run_mode>
-    <particles>200000</particles>
+    <particles>100000</particles>
     <batches>200</batches>
     <inactive>100</inactive>
     <source particle="neutron" strength="1.0" type="independent">
@@ -26523,7 +26523,7 @@
   </settings>
   <tallies>
     <filter id="2" type="zernike">
-      <order>50</order>
+      <order>200</order>
       <x>0.0</x>
       <y>0.0</y>
       <r>1.1334</r>
