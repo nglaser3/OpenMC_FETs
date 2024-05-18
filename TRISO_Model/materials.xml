@@ -12,7 +12,7 @@
     <nuclide ao="1.0" name="C0"/>
   </material>
   <material id="3" name="Carbon Buffer">
-    <density units="g/cm3" value="1.0"/>
+    <density units="g/cm3" value="1"/>
     <nuclide ao="1.0" name="C0"/>
   </material>
   <material depletable="true" id="4" name="Fuel">
