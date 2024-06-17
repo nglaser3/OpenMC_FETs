@@ -19,9 +19,6 @@ TRISO = openmc.Model()
 
 
 
-
-
-
 ''' 
 Materials 
 '''
@@ -49,80 +46,71 @@ TRISO.materials = openmc.Materials([SiC,PyC,Carbon,UCO])
 
 
 
-
-
-
 '''
-Geometry
+Geometry 
 '''
-
-radius_fuel, radius_buffer, radius_IPyC, radius_SiC, radius_OPyC = 400e-4, 475e-4, 510e-4, 546.7e-4, 566.7e-4
-compact_radius,compact_height = 20 * radius_OPyC, 1
-compact_surface = openmc.ZCylinder(r = compact_radius, surface_id = 1,boundary_type = 'reflective')
-top,bottom = openmc.ZPlane(z0 = compact_height/2,surface_id = 2,boundary_type ='reflective'), openmc.ZPlane(z0 = -compact_height/2, surface_id = 3,boundary_type = 'reflective')
-compact_region =  -compact_surface & - top & + bottom
+#triso universe generation
+outer_radius = 566.7e-4 #outer radius of OPyC
 pf = .3
+seed = 1
+radii = [400e-4, 475e-4, 510e-4, 546.7e-4] #outer radii for fuel, buffer, ipyc, and SiC
+spheres = [openmc.Sphere(r = radius) for radius in radii]
+cells = [openmc.Cell(fill=UCO, region=-spheres[0]),
+        openmc.Cell(fill = Carbon,region = +spheres[0] & -spheres[1]),
+        openmc.Cell(fill = PyC, region = +spheres[1]&-spheres[2]),
+        openmc.Cell(fill=SiC, region = +spheres[2]&-spheres[3]),
+        openmc.Cell(fill = PyC, region = +spheres[3])]
+triso_univ = openmc.Universe(cells = cells)
 
+#compact generation and sphere packing
+compact_radius,compact_height= outer_radius *15 , 1   #eyeball guess from pictures
+compact_surface = openmc.ZCylinder(r = compact_radius)
+top,bottom = openmc.ZPlane(z0 = compact_height/2,boundary_type ='reflective'), openmc.ZPlane(z0 = -compact_height/2,boundary_type = 'reflective')
+compact_region =  -compact_surface & - top & + bottom
+centroids = openmc.model.pack_spheres(radius = outer_radius,region=compact_region, pf = pf, seed = seed)
 
-centroids = openmc.model.pack_spheres(radius = radius_OPyC,region=compact_region,pf=pf, seed=1)
+#bounding cells (hexagon / cylinder)
+outterhex = openmc.model.HexagonalPrism(edge_length=2*compact_radius,boundary_type = 'reflective',corner_radius=0)
+hexagonal_compact = openmc.Cell(region = -outterhex &+bottom &-top&+compact_surface,fill=SiC)
+cylinder_compact = openmc.Cell(region = compact_region)
 
+#lattice generation 
+trisos = [openmc.model.TRISO(outer_radius=outer_radius,fill = triso_univ, center=centroid) for centroid in centroids]
+shape = (4,4,4)
+lowerleft,upperright = cylinder_compact.region.bounding_box
+pitch = (upperright-lowerleft)/shape
+lattice = openmc.model.create_triso_lattice(trisos = trisos, lower_left=lowerleft, pitch=pitch,shape = shape,background=Carbon)
+cylinder_compact.fill = lattice
 
-def triso_surfs(r,x,y,z):
-    return openmc.Sphere(r=r,x0=x,y0=y,z0=z)
-
-fuel_surfs = [triso_surfs(radius_fuel,x,y,z) for x,y,z in centroids]
-buffer_surfs = [triso_surfs(radius_buffer,x,y,z) for x,y,z in centroids]
-IPyC_surfs = [triso_surfs(radius_IPyC,x,y,z) for x,y,z in centroids]
-SiC_surfs = [triso_surfs(radius_SiC,x,y,z) for x,y,z in centroids]
-OPyC_surfs = [triso_surfs(radius_OPyC,x,y,z) for x,y,z in centroids]
-
-compact_surface = openmc.model.HexagonalPrism(edge_length=compact_height*2,corner_radius=radius_OPyC,boundary_type='white')
-index = len(fuel_surfs)
-
-#f is fuel, b is buffer, ip is inner pyc, s is sic, op is opyc
-#used enumerate for cell ids when this was a jupyter notebook
-fuel_cells = [openmc.Cell(region = -f,fill = UCO) for i,f in enumerate(fuel_surfs)]
-buffer_cells = [openmc.Cell(region = +f&-b,fill = Carbon) for i,(f,b) in enumerate(zip(fuel_surfs,buffer_surfs))]
-ipyc_cells = [openmc.Cell(region = +b&-ip,fill = PyC) for i,(b,ip) in enumerate(zip(buffer_surfs,IPyC_surfs))]
-sic_cells = [openmc.Cell(region = +ip&-s,fill = SiC) for i,(ip,s) in enumerate(zip(IPyC_surfs,SiC_surfs))]
-opyc_cells = [openmc.Cell(region = +s&-op,fill = PyC) for i,(s,op) in enumerate(zip(SiC_surfs,OPyC_surfs))]
-
-Matrix_region = +bottom &-top & - compact_surface
-for op in OPyC_surfs:
-    Matrix_region &= + op
-Matrix_cell = openmc.Cell(region=Matrix_region,fill = Carbon)
-
-#theres probably a better way to do this haha
-cells = fuel_cells
-cells.extend(buffer_cells)
-
-cells.extend(ipyc_cells)
-
-cells.extend(sic_cells)
-
-cells.extend(opyc_cells)
-
-cells.append(Matrix_cell)
-
-universe = openmc.Universe(cells = cells)
+universe = openmc.Universe(cells=[cylinder_compact,hexagonal_compact])
 TRISO.geometry = openmc.Geometry(universe)
-universe.plot(width = (4,4))
-plt.savefig('geometry.png',dpi = 600)
+
+
+
 
 '''
 Settings 
 '''
-TRISO.settings.source = openmc.IndependentSource(space=openmc.stats.Box(
-    [-compact_radius, -compact_radius, -compact_height], [compact_radius, compact_radius, compact_height],only_fissionable=True))
-TRISO.settings.batches = 200
-TRISO.settings.inactive = 100
-TRISO.settings.particles = 100000
-
+trigger = openmc.Trigger('std_dev',.0001)
 flux_tally_zernike = openmc.Tally()
 flux_tally_zernike.scores = ['fission']
 zernike_filter = openmc.ZernikeFilter(order=5, x=0.0, y=0.0, r=compact_radius)
 flux_tally_zernike.filters = [zernike_filter]
+flux_tally_zernike.triggers = [trigger]
 TRISO.tallies = openmc.Tallies([flux_tally_zernike])
 
-TRISO.export_to_xml()
+TRISO.settings.source = openmc.IndependentSource(space=openmc.stats.Box(
+    [-compact_radius, -compact_radius, -compact_height], [compact_radius, compact_radius, compact_height],only_fissionable=True))
+TRISO.settings.keff_trigger = {'type':'std_dev', 'threshold': .0001}
+TRISO.settings.trigger_active = True
+TRISO.settings.trigger_batch_interval = 5
+TRISO.settings.trigger_max_batches = 1000
+TRISO.settings.inactive = 500
+TRISO.settings.batches = 1000
+TRISO.settings.particles = 500000
 
+
+
+TRISO.export_to_xml()
+universe.plot(color_by = 'cell',width = (compact_radius*4,compact_radius*4))
+plt.savefig('geometry.png')
