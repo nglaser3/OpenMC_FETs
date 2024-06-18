@@ -8,7 +8,7 @@ topz, bottomz = 100,-100
 pitch = .55
 num_pins = 8 # 8x8
 zern_ord = 50
-pinx,piny = 4,4 #0th column, 8th row going from left -right, down-up 
+pinx,piny = 7,0 #0th column, 8th row going from left -right, down-up 
 
 '''
 Materials
@@ -72,9 +72,9 @@ model.tallies = openmc.Tallies([flux_tally_zern])
 Settings 
 '''
 model.settings.source = openmc.Source(space = openmc.stats.Box(lower_left = ll,upper_right = ur, only_fissionable = True))
-model.settings.particles = 1000
-model.settings.batches = 50
-model.settings.inactive = 25
+model.settings.particles = 500000
+model.settings.batches = 1000
+model.settings.inactive = 500
 
 model.export_to_xml()
 

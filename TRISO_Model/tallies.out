@@ -1,0 +1,65 @@
+ ============================>     TALLY 1     <============================
+
+ Zernike expansion, Z0,0
+   Total Material
+     Fission Rate                         0.469744 +/- 2.91232e-05
+ Zernike expansion, Z1,-1
+   Total Material
+     Fission Rate                         0.0027246 +/- 1.14817e-05
+ Zernike expansion, Z1,1
+   Total Material
+     Fission Rate                         0.00104514 +/- 1.11593e-05
+ Zernike expansion, Z2,-2
+   Total Material
+     Fission Rate                         0.000721479 +/- 9.1455e-06
+ Zernike expansion, Z2,0
+   Total Material
+     Fission Rate                         -0.0296931 +/- 1.35121e-05
+ Zernike expansion, Z2,2
+   Total Material
+     Fission Rate                         -0.000331344 +/- 9.49149e-06
+ Zernike expansion, Z3,-3
+   Total Material
+     Fission Rate                         -0.000457858 +/- 8.00642e-06
+ Zernike expansion, Z3,-1
+   Total Material
+     Fission Rate                         0.0015128 +/- 8.50633e-06
+ Zernike expansion, Z3,1
+   Total Material
+     Fission Rate                         0.000527065 +/- 7.97966e-06
+ Zernike expansion, Z3,3
+   Total Material
+     Fission Rate                         -0.000980174 +/- 7.54915e-06
+ Zernike expansion, Z4,-4
+   Total Material
+     Fission Rate                         -0.00179702 +/- 6.66424e-06
+ Zernike expansion, Z4,-2
+   Total Material
+     Fission Rate                         -0.00046695 +/- 6.77319e-06
+ Zernike expansion, Z4,0
+   Total Material
+     Fission Rate                         -0.0266917 +/- 9.81378e-06
+ Zernike expansion, Z4,2
+   Total Material
+     Fission Rate                         0.00156416 +/- 6.97069e-06
+ Zernike expansion, Z4,4
+   Total Material
+     Fission Rate                         -0.000307237 +/- 6.8677e-06
+ Zernike expansion, Z5,-5
+   Total Material
+     Fission Rate                         -0.00100313 +/- 5.9052e-06
+ Zernike expansion, Z5,-3
+   Total Material
+     Fission Rate                         0.00110595 +/- 6.05353e-06
+ Zernike expansion, Z5,-1
+   Total Material
+     Fission Rate                         0.00124716 +/- 6.19971e-06
+ Zernike expansion, Z5,1
+   Total Material
+     Fission Rate                         -0.00114018 +/- 6.51955e-06
+ Zernike expansion, Z5,3
+   Total Material
+     Fission Rate                         0.000492926 +/- 5.75815e-06
+ Zernike expansion, Z5,5
+   Total Material
+     Fission Rate                         -0.000277521 +/- 5.88033e-06

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material id="1" name="SiC">
+    <density units="g/cm3" value="3.2"/>
+    <nuclide ao="0.4611484" name="Si28"/>
+    <nuclide ao="0.0234158" name="Si29"/>
+    <nuclide ao="0.0154358" name="Si30"/>
+    <nuclide ao="0.5" name="C0"/>
+  </material>
+  <material id="2" name="PyC">
+    <density units="g/cm3" value="1.9"/>
+    <nuclide ao="1.0" name="C0"/>
+  </material>
+  <material id="3" name="Carbon Buffer">
+    <density units="g/cm3" value="1"/>
+    <nuclide ao="1.0" name="C0"/>
+  </material>
+  <material depletable="true" id="4" name="Fuel">
+    <density units="g/cm3" value="10.75"/>
+    <nuclide ao="0.0053498776489523964" name="U234"/>
+    <nuclide ao="0.5985447964188919" name="U235"/>
+    <nuclide ao="2.393363703273913" name="U238"/>
+    <nuclide ao="0.0027416226582426323" name="U236"/>
+    <nuclide ao="3.0" name="C0"/>
+    <nuclide ao="1.999242" name="O16"/>
+    <nuclide ao="0.000758" name="O17"/>
+  </material>
+</materials>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tallies>
+  <filter id="1" type="zernike">
+    <order>5</order>
+    <x>0.0</x>
+    <y>0.0</y>
+    <r>0.85005</r>
+  </filter>
+  <tally id="1">
+    <filters>1</filters>
+    <scores>fission</scores>
+    <trigger threshold="0.0001" type="std_dev"/>
+  </tally>
+</tallies>

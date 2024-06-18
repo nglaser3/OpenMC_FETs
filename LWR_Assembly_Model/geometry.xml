@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<geometry>
+  <cell id="1" material="1" region="-3" universe="1"/>
+  <cell id="2" material="3" region="-4 3" universe="1"/>
+  <cell id="3" material="2" region="4" universe="1"/>
+  <cell fill="2" id="4" region="5 -6 7 -8 -1 2" universe="3"/>
+  <lattice id="2">
+    <pitch>1.1 1.1</pitch>
+    <dimension>8 8</dimension>
+    <lower_left>-4.4 -4.4</lower_left>
+    <universes>
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 </universes>
+  </lattice>
+  <surface boundary="reflective" coeffs="100" id="1" type="z-plane"/>
+  <surface boundary="reflective" coeffs="-100" id="2" type="z-plane"/>
+  <surface coeffs="0.0 0.0 0.5" id="3" type="z-cylinder"/>
+  <surface coeffs="0.0 0.0 0.525" id="4" type="z-cylinder"/>
+  <surface boundary="vacuum" coeffs="-4.4" id="5" type="x-plane"/>
+  <surface boundary="reflective" coeffs="4.4" id="6" type="x-plane"/>
+  <surface boundary="vacuum" coeffs="-4.4" id="7" type="y-plane"/>
+  <surface boundary="reflective" coeffs="4.4" id="8" type="y-plane"/>
+</geometry>
