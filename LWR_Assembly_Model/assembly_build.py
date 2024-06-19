@@ -7,7 +7,7 @@ zirc_outter_radius = .025+fuel_outter_radius
 topz, bottomz = 100,-100
 pitch = .55
 num_pins = 8 # 8x8
-zern_ord = 50
+zern_ord = 100
 pinx,piny = 7,0 #0th column, 8th row going from left -right, down-up 
 
 '''
@@ -65,7 +65,7 @@ Tallies
 '''
 
 flux_tally_zern = openmc.Tally()
-flux_tally_zern.scores = ['flux']
+flux_tally_zern.scores = ['kappa-fission']
 zernike_filter = openmc.ZernikeFilter(order = zern_ord,r = fuel_outter_radius,x=_x0,y=_y0)
 flux_tally_zern.filters = [zernike_filter]
 model.tallies = openmc.Tallies([flux_tally_zern])

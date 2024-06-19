@@ -28,7 +28,7 @@ nohup: ignoring input
          License | https://docs.openmc.org/en/latest/license.html
          Version | 0.14.1-dev
         Git SHA1 | e8f68a0159302f69ad04f0ca56e062f88324a411
-       Date/Time | 2024-06-18 19:58:03
+       Date/Time | 2024-06-18 21:00:53
    MPI Processes | 24
   OpenMP Threads | 72
 
@@ -1316,21 +1316,21 @@ nohup: ignoring input
 
  =======================>     TIMING STATISTICS     <=======================
 
- Total time for initialization     = 7.6511e-01 seconds
-   Reading cross sections          = 5.5829e-01 seconds
- Total time in simulation          = 8.3497e+02 seconds
-   Time in transport only          = 7.9016e+02 seconds
-   Time in inactive batches        = 3.1276e+02 seconds
-   Time in active batches          = 5.2221e+02 seconds
-   Time synchronizing fission bank = 3.3126e+01 seconds
-     Sampling source sites         = 3.7600e+00 seconds
-     SEND/RECV source sites        = 4.1748e-01 seconds
-   Time accumulating tallies       = 9.8864e+00 seconds
-   Time writing statepoints        = 3.7263e-02 seconds
- Total time for finalization       = 1.3408e-03 seconds
- Total time elapsed                = 8.3603e+02 seconds
- Calculation Rate (inactive)       = 799323 particles/second
- Calculation Rate (active)         = 718108 particles/second
+ Total time for initialization     = 7.5194e-01 seconds
+   Reading cross sections          = 5.6148e-01 seconds
+ Total time in simulation          = 9.6544e+02 seconds
+   Time in transport only          = 9.2142e+02 seconds
+   Time in inactive batches        = 3.0990e+02 seconds
+   Time in active batches          = 6.5554e+02 seconds
+   Time synchronizing fission bank = 3.2519e+01 seconds
+     Sampling source sites         = 3.7424e+00 seconds
+     SEND/RECV source sites        = 3.8861e-01 seconds
+   Time accumulating tallies       = 9.6937e+00 seconds
+   Time writing statepoints        = 3.8198e-02 seconds
+ Total time for finalization       = 5.1518e-03 seconds
+ Total time elapsed                = 9.6644e+02 seconds
+ Calculation Rate (inactive)       = 806714 particles/second
+ Calculation Rate (active)         = 572044 particles/second
 
  ============================>     RESULTS     <============================
 

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tallies>
   <filter id="1" type="zernike">
-    <order>50</order>
+    <order>100</order>
     <x>0.55</x>
     <y>0.55</y>
     <r>0.5</r>
   </filter>
   <tally id="1">
     <filters>1</filters>
-    <scores>flux</scores>
+    <scores>kappa-fission</scores>
   </tally>
 </tallies>
