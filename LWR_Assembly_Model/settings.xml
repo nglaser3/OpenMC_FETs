@@ -2,7 +2,7 @@
 <settings>
   <run_mode>eigenvalue</run_mode>
   <particles>500000</particles>
-  <batches>1000</batches>
+  <batches>1250</batches>
   <inactive>500</inactive>
   <source particle="neutron" strength="1.0" type="independent">
     <space type="fission">

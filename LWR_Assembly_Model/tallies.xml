@@ -3,7 +3,7 @@
   <filter id="1" type="zernike">
     <order>50</order>
     <x>0.55</x>
-    <y>8.25</y>
+    <y>0.55</y>
     <r>0.5</r>
   </filter>
   <tally id="1">

@@ -72,9 +72,9 @@ model.tallies = openmc.Tallies([flux_tally_zern])
 '''
 Settings 
 '''
-model.settings.source = openmc.Source(space = openmc.stats.Box(lower_left = ll,upper_right = ur, only_fissionable = True))
-model.settings.particles = 5000
-model.settings.batches = 1000
+model.settings.source = openmc.IndependentSource(space = openmc.stats.Box(lower_left = ll,upper_right = ur, only_fissionable = True))
+model.settings.particles = 500000
+model.settings.batches = 1250
 model.settings.inactive = 500
 
 model.export_to_xml()
