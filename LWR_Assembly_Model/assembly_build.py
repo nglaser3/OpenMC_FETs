@@ -50,15 +50,16 @@ lattice = openmc.RectLattice()
 lattice.lower_left = (-num_pins*pitch,-num_pins*pitch)
 lattice.pitch = (pitch*2,pitch*2)
 lattice.universes = [[pin_universe]*num_pins]*num_pins
-left,right = openmc.XPlane(x0=-pitch*num_pins,boundary_type = 'vacuum'),openmc.XPlane(x0=pitch*num_pins,boundary_type = 'reflective')
-back,front = openmc.YPlane(y0=-pitch*num_pins,boundary_type = 'vacuum'),openmc.YPlane(y0=pitch*num_pins,boundary_type = 'reflective')
+left,right = openmc.XPlane(x0=-pitch*num_pins,boundary_type = 'reflective'),openmc.XPlane(x0=pitch*num_pins,boundary_type = 'reflective')
+back,front = openmc.YPlane(y0=-pitch*num_pins,boundary_type = 'reflective'),openmc.YPlane(y0=pitch*num_pins,boundary_type = 'reflective')
 boundingrectangle = openmc.Cell(region = +left &-right &+back &-front &-top &+bottom, fill = lattice)
 universe = openmc.Universe(cells = [boundingrectangle])
 model.geometry = openmc.Geometry(universe)
 ll,ur = universe.bounding_box
 
 _furthest = num_pins*pitch*2 - pitch
-_x0,_y0 = numpy.around(_furthest-pinx*pitch*2,2),numpy.around(_furthest-piny*pitch*2,2)
+
+_x0,_y0 = .55,.55 
 '''
 Tallies
 '''
@@ -72,7 +73,7 @@ model.tallies = openmc.Tallies([flux_tally_zern])
 Settings 
 '''
 model.settings.source = openmc.Source(space = openmc.stats.Box(lower_left = ll,upper_right = ur, only_fissionable = True))
-model.settings.particles = 500000
+model.settings.particles = 5000
 model.settings.batches = 1000
 model.settings.inactive = 500
 
