@@ -5,7 +5,7 @@ from matplotlib.animation import FuncAnimation
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 import os
 import glob
-compact_radius = 566.7e-4*20
+compact_radius = 566.7e-4*15
 radius_fuel = 400e-4
 os.system('echo "Make sure compact radius in this file matches triso_build.py"')
 statepoint = glob.glob('statepoint*')
@@ -71,7 +71,7 @@ def find_centroids(geo_path,fuel_radius):
     return x,y,z
 
 
-def circle(x,y,z,R,ord):
+def circle(x,y,z,R,order):
     '''
     x = x0
     y = y0
@@ -79,7 +79,7 @@ def circle(x,y,z,R,ord):
     R = Sphere radius
     '''
     r = (R**2-z**2)**.5
-    theta = np.linspace(0,2*np.pi,ord)
+    theta = np.linspace(0,2*np.pi,order)
     x_ = r*np.cos(theta)+x
     y_ = r*np.sin(theta)+y
     return x_,y_
@@ -92,8 +92,7 @@ Plotting
 
 
 
-# this plotting scheme is a little bit wonky, but I couldn't get the cross geometry to plot 
-#on the same plot when in polar 
+# this plotting scheme is a little bit wonky, but I couldn't get the cross geometry to plot on the same plot when in polar 
 
 
 
@@ -114,8 +113,8 @@ circs = [circle(x0,y0,z0,radius_fuel,30) for x0,y0,z0 in zip(x,y,z)]
 for circ in circs: 
     ax.plot(circ[0],circ[1],color = 'k',linewidth = .75)
 ax.set_aspect('equal')
-#animation = FuncAnimation(fig, func=zern_plot, frames=max_order+1, interval=250)
-#animation.save('TRISO_short_10000_Z_150.mp4')
+animation = FuncAnimation(fig, func=zern_plot, frames=np.arange(1,max_order+1), interval=250)
+animation.save('TRISO_short_10000_Z_150.mp4')
 
 
 os.system('echo "Done! Yay!"')

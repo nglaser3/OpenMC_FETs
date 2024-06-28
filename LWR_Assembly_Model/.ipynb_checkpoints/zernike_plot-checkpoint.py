@@ -41,7 +41,6 @@ def funcanimate(order):
     max_index = max_indices[order-1]
     z_n = openmc.Zernike(zern_mean[:max_index], radius=fuel_outter_radius)
     values = z_n(zeniths,azimuths)
-    ax.set_title('Zernike Order {}'.format(order))
     ax.contourf(theta,r,values, cmap='jet')
 
 animation = FuncAnimation(fig = fig,func = funcanimate, frames = [n for n in range(1,max_order+1)])
