@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "Enums.C": "cpp",
+        "CellAveragedProblem.C": "cpp",
+        "main.C": "cpp",
+        "SpatialFETTally.C": "cpp"
+    }
+}
